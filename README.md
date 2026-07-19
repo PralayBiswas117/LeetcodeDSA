@@ -13,8 +13,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0049-group-anagrams) |
+| [0171-excel-sheet-column-number](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0171-excel-sheet-column-number) |
 ## Sorting
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0049-group-anagrams) |
+## Math
+|  |
+| ------- |
+| [0171-excel-sheet-column-number](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0171-excel-sheet-column-number) |
 <!---LeetCode Topics End-->
