@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0013-roman-to-integer) |
 | [0049-group-anagrams](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0049-group-anagrams) |
+| [0125-valid-palindrome](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0125-valid-palindrome) |
 | [0168-excel-sheet-column-title](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0171-excel-sheet-column-number) |
 | [0564-find-the-closest-palindrome](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0564-find-the-closest-palindrome) |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0088-merge-sorted-array) |
+| [0125-valid-palindrome](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0125-valid-palindrome) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Bit Manipulation
