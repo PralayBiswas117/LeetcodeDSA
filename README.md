@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0051-n-queens) |
+| [0054-spiral-matrix](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0054-spiral-matrix) |
 | [0066-plus-one](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0078-subsets) |
@@ -189,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0054-spiral-matrix) |
 | [0067-add-binary](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0067-add-binary) |
 | [1260-shift-2d-grid](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/1260-shift-2d-grid) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -230,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0240-search-a-2d-matrix-ii) |
 | [1260-shift-2d-grid](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/1260-shift-2d-grid) |
