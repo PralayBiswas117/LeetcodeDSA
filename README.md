@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0013-roman-to-integer) |
+| [0050-powx-n](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0070-climbing-stairs) |
@@ -271,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0021-merge-two-sorted-lists) |
+| [0050-powx-n](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0206-reverse-linked-list) |
 | [0326-power-of-three](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0326-power-of-three) |
 | [0509-fibonacci-number](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0509-fibonacci-number) |
