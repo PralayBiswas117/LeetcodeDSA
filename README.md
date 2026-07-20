@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0027-remove-element) |
 | [0042-trapping-rain-water](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0049-group-anagrams) |
+| [0051-n-queens](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0051-n-queens) |
 | [0066-plus-one](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0118-pascals-triangle) |
@@ -228,4 +229,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0206-reverse-linked-list) |
+## Backtracking
+|  |
+| ------- |
+| [0051-n-queens](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0051-n-queens) |
 <!---LeetCode Topics End-->
