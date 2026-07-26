@@ -121,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0171-excel-sheet-column-number](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0171-excel-sheet-column-number) |
 | [0202-happy-number](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0231-power-of-two) |
+| [0258-add-digits](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0342-power-of-four) |
@@ -141,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0258-add-digits) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -239,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0054-spiral-matrix) |
 | [0067-add-binary](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0067-add-binary) |
+| [0258-add-digits](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0258-add-digits) |
 | [1260-shift-2d-grid](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/1260-shift-2d-grid) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Dynamic Programming
