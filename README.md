@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0443-string-compression](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0443-string-compression) |
 | [0564-find-the-closest-palindrome](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0564-find-the-closest-palindrome) |
 | [1189-maximum-number-of-balloons](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/1189-maximum-number-of-balloons) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Sorting
 |  |
 | ------- |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0912-sort-an-array](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0912-sort-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1833-maximum-ice-cream-bars](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/1833-maximum-ice-cream-bars) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3536-maximum-product-of-two-digits) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -350,6 +352,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0561-array-partition](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0561-array-partition) |
 | [0912-sort-an-array](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0912-sort-an-array) |
 | [1833-maximum-ice-cream-bars](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/1833-maximum-ice-cream-bars) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Stack
 |  |
 | ------- |
