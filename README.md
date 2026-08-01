@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0287-find-the-duplicate-number) |
+| [0486-predict-the-winner](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0486-predict-the-winner) |
 | [0560-subarray-sum-equals-k](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0560-subarray-sum-equals-k) |
 | [0561-array-partition](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0561-array-partition) |
 | [0628-maximum-product-of-three-numbers](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0628-maximum-product-of-three-numbers) |
@@ -156,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0342-power-of-four) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0415-add-strings](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0415-add-strings) |
+| [0486-predict-the-winner](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0509-fibonacci-number) |
 | [0564-find-the-closest-palindrome](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0564-find-the-closest-palindrome) |
 | [0628-maximum-product-of-three-numbers](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0628-maximum-product-of-three-numbers) |
@@ -301,6 +303,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0198-house-robber) |
 | [0264-ugly-number-ii](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0264-ugly-number-ii) |
+| [0486-predict-the-winner](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0509-fibonacci-number) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -381,6 +384,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0342-power-of-four) |
+| [0486-predict-the-winner](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0509-fibonacci-number) |
 ## Counting Sort
 |  |
@@ -452,4 +456,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0014-longest-common-prefix) |
+## Game Theory
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0486-predict-the-winner) |
 <!---LeetCode Topics End-->
