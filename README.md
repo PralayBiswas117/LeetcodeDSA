@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0877-stone-game) |
 | [0888-fair-candy-swap](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0888-fair-candy-swap) |
 | [0912-sort-an-array](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0912-sort-an-array) |
+| [1140-stone-game-ii](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/1140-stone-game-ii) |
 | [1260-shift-2d-grid](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/1260-shift-2d-grid) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1406-stone-game-iii](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/1406-stone-game-iii) |
@@ -193,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0728-self-dividing-numbers](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0728-self-dividing-numbers) |
 | [0877-stone-game](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/1025-divisor-game) |
+| [1140-stone-game-ii](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/1140-stone-game-ii) |
 | [1323-maximum-69-number](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/1323-maximum-69-number) |
 | [1406-stone-game-iii](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/1406-stone-game-iii) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -257,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0238-product-of-array-except-self) |
 | [0560-subarray-sum-equals-k](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0560-subarray-sum-equals-k) |
+| [1140-stone-game-ii](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/1140-stone-game-ii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3312-sorted-gcd-pair-queries) |
 ## Sliding Window
 |  |
@@ -360,6 +363,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0509-fibonacci-number) |
 | [0877-stone-game](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/1025-divisor-game) |
+| [1140-stone-game-ii](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/1406-stone-game-iii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -531,15 +535,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/1025-divisor-game) |
+| [1140-stone-game-ii](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/1406-stone-game-iii) |
 ## Minimax
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0292-nim-game) |
+| [1140-stone-game-ii](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/1406-stone-game-iii) |
 ## Zero-Sum Game
 |  |
 | ------- |
+| [1140-stone-game-ii](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/1406-stone-game-iii) |
 ## Quicksort
 |  |
