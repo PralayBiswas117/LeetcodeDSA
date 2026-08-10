@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0877-stone-game) |
 | [0888-fair-candy-swap](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0888-fair-candy-swap) |
 | [0912-sort-an-array](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0912-sort-an-array) |
+| [0969-pancake-sorting](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0969-pancake-sorting) |
 | [1140-stone-game-ii](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/1140-stone-game-ii) |
 | [1260-shift-2d-grid](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/1260-shift-2d-grid) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
@@ -160,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0888-fair-candy-swap](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0888-fair-candy-swap) |
 | [0912-sort-an-array](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0912-sort-an-array) |
+| [0969-pancake-sorting](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0969-pancake-sorting) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1833-maximum-ice-cream-bars](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/1833-maximum-ice-cream-bars) |
 | [2733-neither-minimum-nor-maximum](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/2733-neither-minimum-nor-maximum) |
@@ -323,6 +325,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0443-string-compression](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0443-string-compression) |
+| [0969-pancake-sorting](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0969-pancake-sorting) |
 | [2396-strictly-palindromic-number](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/2396-strictly-palindromic-number) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -385,6 +388,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0134-gas-station](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0134-gas-station) |
 | [0409-longest-palindrome](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0409-longest-palindrome) |
 | [0561-array-partition](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0561-array-partition) |
+| [0969-pancake-sorting](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0969-pancake-sorting) |
 | [1323-maximum-69-number](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/1323-maximum-69-number) |
 | [1833-maximum-ice-cream-bars](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/1833-maximum-ice-cream-bars) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
