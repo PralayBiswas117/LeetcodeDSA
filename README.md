@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1630-arithmetic-subarrays](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/1630-arithmetic-subarrays) |
+| [1636-sort-array-by-increasing-frequency](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1686-stone-game-vi](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/1686-stone-game-vi) |
 | [1833-maximum-ice-cream-bars](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/1833-maximum-ice-cream-bars) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/1877-minimize-maximum-pair-sum-in-array) |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
 | [1630-arithmetic-subarrays](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/1630-arithmetic-subarrays) |
+| [1636-sort-array-by-increasing-frequency](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/1636-sort-array-by-increasing-frequency) |
 | [2965-find-missing-and-repeated-values](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/2965-find-missing-and-repeated-values) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -187,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1630-arithmetic-subarrays](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/1630-arithmetic-subarrays) |
+| [1636-sort-array-by-increasing-frequency](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1686-stone-game-vi](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/1686-stone-game-vi) |
 | [1833-maximum-ice-cream-bars](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/1833-maximum-ice-cream-bars) |
 | [1859-sorting-the-sentence](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/1859-sorting-the-sentence) |
