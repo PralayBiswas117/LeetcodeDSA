@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0287-find-the-duplicate-number) |
+| [0289-game-of-life](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0289-game-of-life) |
 | [0349-intersection-of-two-arrays](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -405,6 +406,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0054-spiral-matrix) |
 | [0067-add-binary](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0258-add-digits) |
+| [0289-game-of-life](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0289-game-of-life) |
 | [0415-add-strings](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0415-add-strings) |
 | [1260-shift-2d-grid](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/1260-shift-2d-grid) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -482,6 +484,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0240-search-a-2d-matrix-ii) |
+| [0289-game-of-life](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0289-game-of-life) |
 | [1260-shift-2d-grid](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/1260-shift-2d-grid) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/2812-find-the-safest-path-in-a-grid) |
