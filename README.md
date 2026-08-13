@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0561-array-partition](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0561-array-partition) |
 | [0628-maximum-product-of-three-numbers](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0682-baseball-game](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0682-baseball-game) |
+| [0697-degree-of-an-array](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0697-degree-of-an-array) |
 | [0704-binary-search](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0875-koko-eating-bananas) |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0409-longest-palindrome](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0409-longest-palindrome) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0560-subarray-sum-equals-k) |
+| [0697-degree-of-an-array](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0697-degree-of-an-array) |
 | [0888-fair-candy-swap](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0888-fair-candy-swap) |
 | [1189-maximum-number-of-balloons](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/1189-maximum-number-of-balloons) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
