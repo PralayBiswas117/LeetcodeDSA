@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0051-n-queens](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0054-spiral-matrix) |
+| [0059-spiral-matrix-ii](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0059-spiral-matrix-ii) |
 | [0066-plus-one](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0074-search-a-2d-matrix) |
@@ -411,6 +412,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0054-spiral-matrix) |
+| [0059-spiral-matrix-ii](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0059-spiral-matrix-ii) |
 | [0067-add-binary](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0258-add-digits) |
 | [0289-game-of-life](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0289-game-of-life) |
@@ -489,6 +491,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0037-sudoku-solver) |
 | [0048-rotate-image](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0054-spiral-matrix) |
+| [0059-spiral-matrix-ii](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0059-spiral-matrix-ii) |
 | [0073-set-matrix-zeroes](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0240-search-a-2d-matrix-ii) |
