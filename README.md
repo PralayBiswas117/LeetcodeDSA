@@ -565,6 +565,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0185-department-top-three-salaries](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0185-department-top-three-salaries) |
 | [0196-delete-duplicate-emails](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0196-delete-duplicate-emails) |
 | [0595-big-countries](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0595-big-countries) |
+| [3475-dna-pattern-recognition](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3475-dna-pattern-recognition) |
 ## Recursion
 |  |
 | ------- |
