@@ -471,6 +471,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0509-fibonacci-number) |
 | [0788-rotated-digits](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0788-rotated-digits) |
+| [0818-race-car](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0818-race-car) |
 | [0877-stone-game](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/1025-divisor-game) |
 | [1140-stone-game-ii](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/1140-stone-game-ii) |
@@ -754,4 +755,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0474-ones-and-zeroes](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0474-ones-and-zeroes) |
+## Heuristic Search
+|  |
+| ------- |
+| [0818-race-car](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0818-race-car) |
+## A* Search
+|  |
+| ------- |
+| [0818-race-car](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0818-race-car) |
 <!---LeetCode Topics End-->
