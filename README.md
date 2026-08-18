@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0472-concatenated-words](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0472-concatenated-words) |
 | [0474-ones-and-zeroes](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0474-ones-and-zeroes) |
 | [0486-predict-the-winner](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0486-predict-the-winner) |
+| [0500-keyboard-row](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0500-keyboard-row) |
 | [0560-subarray-sum-equals-k](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0560-subarray-sum-equals-k) |
 | [0561-array-partition](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0561-array-partition) |
 | [0628-maximum-product-of-three-numbers](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0628-maximum-product-of-three-numbers) |
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0389-find-the-difference) |
 | [0409-longest-palindrome](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0409-longest-palindrome) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0500-keyboard-row](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0500-keyboard-row) |
 | [0560-subarray-sum-equals-k](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0560-subarray-sum-equals-k) |
 | [0697-degree-of-an-array](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0697-degree-of-an-array) |
 | [0888-fair-candy-swap](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0888-fair-candy-swap) |
@@ -174,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0443-string-compression](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0443-string-compression) |
 | [0472-concatenated-words](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0472-concatenated-words) |
 | [0474-ones-and-zeroes](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0474-ones-and-zeroes) |
+| [0500-keyboard-row](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0500-keyboard-row) |
 | [0564-find-the-closest-palindrome](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0564-find-the-closest-palindrome) |
 | [1108-defanging-an-ip-address](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/1108-defanging-an-ip-address) |
 | [1189-maximum-number-of-balloons](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/1189-maximum-number-of-balloons) |
