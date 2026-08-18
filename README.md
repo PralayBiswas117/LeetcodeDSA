@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0682-baseball-game) |
 | [0697-degree-of-an-array](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0697-degree-of-an-array) |
 | [0704-binary-search](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0704-binary-search) |
+| [0832-flipping-an-image](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0832-flipping-an-image) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0875-koko-eating-bananas) |
 | [0877-stone-game](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0877-stone-game) |
@@ -399,6 +400,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0443-string-compression) |
 | [0455-assign-cookies](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0455-assign-cookies) |
+| [0832-flipping-an-image](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0832-flipping-an-image) |
 | [0969-pancake-sorting](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0969-pancake-sorting) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2396-strictly-palindromic-number](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/2396-strictly-palindromic-number) |
@@ -422,6 +424,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0389-find-the-difference) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0461-hamming-distance](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0461-hamming-distance) |
+| [0832-flipping-an-image](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0832-flipping-an-image) |
 | [0868-binary-gap](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0868-binary-gap) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3513-number-of-unique-xor-triplets-i) |
@@ -438,6 +441,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0289-game-of-life](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0289-game-of-life) |
 | [0415-add-strings](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0415-add-strings) |
 | [0682-baseball-game](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0682-baseball-game) |
+| [0832-flipping-an-image](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0832-flipping-an-image) |
 | [1260-shift-2d-grid](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/1260-shift-2d-grid) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Dynamic Programming
@@ -521,6 +525,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0240-search-a-2d-matrix-ii) |
 | [0289-game-of-life](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0289-game-of-life) |
+| [0832-flipping-an-image](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0832-flipping-an-image) |
 | [1260-shift-2d-grid](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/1260-shift-2d-grid) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/2812-find-the-safest-path-in-a-grid) |
