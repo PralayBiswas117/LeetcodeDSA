@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1383-maximum-performance-of-a-team](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/1383-maximum-performance-of-a-team) |
+| [1386-cinema-seat-allocation](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/1386-cinema-seat-allocation) |
 | [1406-stone-game-iii](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/1406-stone-game-iii) |
 | [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0888-fair-candy-swap](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0888-fair-candy-swap) |
 | [1189-maximum-number-of-balloons](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/1189-maximum-number-of-balloons) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1386-cinema-seat-allocation](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/1386-cinema-seat-allocation) |
 | [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
 | [1630-arithmetic-subarrays](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/1630-arithmetic-subarrays) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/1636-sort-array-by-increasing-frequency) |
@@ -435,6 +437,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0832-flipping-an-image](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0832-flipping-an-image) |
 | [0868-binary-gap](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0868-binary-gap) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
+| [1386-cinema-seat-allocation](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/1386-cinema-seat-allocation) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -493,6 +496,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0969-pancake-sorting](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0969-pancake-sorting) |
 | [1323-maximum-69-number](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/1323-maximum-69-number) |
 | [1383-maximum-performance-of-a-team](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/1383-maximum-performance-of-a-team) |
+| [1386-cinema-seat-allocation](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/1386-cinema-seat-allocation) |
 | [1686-stone-game-vi](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/1686-stone-game-vi) |
 | [1833-maximum-ice-cream-bars](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/1833-maximum-ice-cream-bars) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/1877-minimize-maximum-pair-sum-in-array) |
