@@ -1,44 +1,31 @@
-#include <mutex>
-#include <condition_variable>
-using namespace std;
+#include <semaphore>
+#include <barrier>
 
 class H2O {
 private:
-    mutex mtx;
-    condition_variable cv;
-    int h = 0;
-    int o = 0;
-
+    std::counting_semaphore<2> collect_hydro;
+    std::counting_semaphore<1> collect_oxy;
+    std::barrier<> assembler;
 public:
-    H2O() {}
-
-    void hydrogen(function<void()> releaseHydrogen) {
-        unique_lock<mutex> lock(mtx);
-
-        cv.wait(lock, [&] { return h < 2; });
-
-        releaseHydrogen();
-        h++;
-
-        if (h == 2 && o == 1) {
-            h = 0;
-            o = 0;
-            cv.notify_all();
-        }
+    H2O() : collect_hydro(2), collect_oxy(1), assembler(3)
+    {
     }
 
-    void oxygen(function<void()> releaseOxygen) {
-        unique_lock<mutex> lock(mtx);
+    void hydrogen(std::function<void()> releaseHydrogen) {
+        collect_hydro.acquire();
+		assembler.arrive_and_wait();
+        // releaseHydrogen() outputs "H". Do not change or remove this line.
+        releaseHydrogen();
+        
+        collect_hydro.release();
+    }
 
-        cv.wait(lock, [&] { return o < 1; });
-
+    void oxygen(std::function<void()> releaseOxygen) {
+        collect_oxy.acquire();
+		assembler.arrive_and_wait();
+        // releaseOxygen() outputs "O". Do not change or remove this line.
         releaseOxygen();
-        o++;
 
-        if (h == 2 && o == 1) {
-            h = 0;
-            o = 0;
-            cv.notify_all();
-        }
+        collect_oxy.release();
     }
 };
