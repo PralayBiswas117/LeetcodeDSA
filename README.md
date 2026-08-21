@@ -202,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1859-sorting-the-sentence](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/1859-sorting-the-sentence) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2573-find-the-string-with-lcp](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/2573-find-the-string-with-lcp) |
+| [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
