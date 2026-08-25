@@ -117,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2164-sort-even-and-odd-indices-independently](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/2164-sort-even-and-odd-indices-independently) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2251-number-of-flowers-in-full-bloom](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/2251-number-of-flowers-in-full-bloom) |
+| [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2573-find-the-string-with-lcp](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/2573-find-the-string-with-lcp) |
 | [2733-neither-minimum-nor-maximum](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/2733-neither-minimum-nor-maximum) |
 | [2751-robot-collisions](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/2751-robot-collisions) |
@@ -244,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1859-sorting-the-sentence](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/1859-sorting-the-sentence) |
 | [1927-sum-game](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/1927-sum-game) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/2213-longest-substring-of-one-repeating-character) |
+| [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2573-find-the-string-with-lcp](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/2573-find-the-string-with-lcp) |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
