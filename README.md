@@ -142,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3718-smallest-missing-multiple-of-k](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3731-find-missing-elements) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
+| [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
 | [3818-minimum-prefix-removal-to-make-array-strictly-increasing](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3818-minimum-prefix-removal-to-make-array-strictly-increasing) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Hash Table
@@ -198,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3718-smallest-missing-multiple-of-k](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3731-find-missing-elements) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
+| [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
 ## String
 |  |
 | ------- |
