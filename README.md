@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0733-flood-fill) |
 | [0832-flipping-an-image](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0832-flipping-an-image) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0852-peak-index-in-a-mountain-array) |
+| [0874-walking-robot-simulation](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0874-walking-robot-simulation) |
 | [0875-koko-eating-bananas](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0875-koko-eating-bananas) |
 | [0877-stone-game](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0877-stone-game) |
 | [0888-fair-candy-swap](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0888-fair-candy-swap) |
@@ -179,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0560-subarray-sum-equals-k) |
 | [0575-distribute-candies](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0575-distribute-candies) |
 | [0697-degree-of-an-array](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0697-degree-of-an-array) |
+| [0874-walking-robot-simulation](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0874-walking-robot-simulation) |
 | [0888-fair-candy-swap](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0888-fair-candy-swap) |
 | [1189-maximum-number-of-balloons](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/1189-maximum-number-of-balloons) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -570,6 +572,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0657-robot-return-to-origin](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0657-robot-return-to-origin) |
 | [0682-baseball-game](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0682-baseball-game) |
 | [0832-flipping-an-image](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0832-flipping-an-image) |
+| [0874-walking-robot-simulation](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0874-walking-robot-simulation) |
 | [1260-shift-2d-grid](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/1260-shift-2d-grid) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2751-robot-collisions](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/2751-robot-collisions) |
