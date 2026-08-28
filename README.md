@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0051-n-queens](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0054-spiral-matrix) |
+| [0055-jump-game](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0055-jump-game) |
 | [0059-spiral-matrix-ii](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0059-spiral-matrix-ii) |
 | [0066-plus-one](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0073-set-matrix-zeroes) |
@@ -592,6 +593,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0119-pascals-triangle-ii) |
@@ -626,6 +628,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0134-gas-station](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0134-gas-station) |
 | [0409-longest-palindrome](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0409-longest-palindrome) |
