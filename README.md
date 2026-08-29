@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0289-game-of-life](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0289-game-of-life) |
 | [0321-create-maximum-number](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0321-create-maximum-number) |
 | [0324-wiggle-sort-ii](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0324-wiggle-sort-ii) |
+| [0330-patching-array](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0330-patching-array) |
 | [0349-intersection-of-two-arrays](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0384-shuffle-an-array](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0384-shuffle-an-array) |
@@ -654,6 +655,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0316-remove-duplicate-letters](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0316-remove-duplicate-letters) |
 | [0321-create-maximum-number](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0321-create-maximum-number) |
 | [0324-wiggle-sort-ii](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0324-wiggle-sort-ii) |
+| [0330-patching-array](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0330-patching-array) |
 | [0409-longest-palindrome](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0409-longest-palindrome) |
 | [0455-assign-cookies](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0455-assign-cookies) |
 | [0561-array-partition](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0561-array-partition) |
