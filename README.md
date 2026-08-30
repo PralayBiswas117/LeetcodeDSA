@@ -789,6 +789,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0042-trapping-rain-water) |
+| [0094-binary-tree-inorder-traversal](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0094-binary-tree-inorder-traversal) |
 | [0316-remove-duplicate-letters](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0316-remove-duplicate-letters) |
 | [0321-create-maximum-number](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0321-create-maximum-number) |
 | [0496-next-greater-element-i](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0496-next-greater-element-i) |
@@ -872,6 +873,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0079-word-search](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0079-word-search) |
+| [0094-binary-tree-inorder-traversal](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0094-binary-tree-inorder-traversal) |
 | [0472-concatenated-words](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0472-concatenated-words) |
 | [0733-flood-fill](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0733-flood-fill) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
@@ -1022,4 +1024,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0334-increasing-triplet-subsequence](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0334-increasing-triplet-subsequence) |
+## Tree
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0094-binary-tree-inorder-traversal) |
+## Binary Tree
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0094-binary-tree-inorder-traversal) |
 <!---LeetCode Topics End-->
