@@ -701,6 +701,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0101-symmetric-tree](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0101-symmetric-tree) |
 | [0733-flood-fill](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0733-flood-fill) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -876,6 +877,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0094-binary-tree-inorder-traversal) |
 | [0098-validate-binary-search-tree](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0099-recover-binary-search-tree) |
+| [0101-symmetric-tree](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0101-symmetric-tree) |
 | [0472-concatenated-words](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0472-concatenated-words) |
 | [0733-flood-fill](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0733-flood-fill) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
@@ -1032,12 +1034,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0094-binary-tree-inorder-traversal) |
 | [0098-validate-binary-search-tree](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0099-recover-binary-search-tree) |
+| [0101-symmetric-tree](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0101-symmetric-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0094-binary-tree-inorder-traversal) |
 | [0098-validate-binary-search-tree](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0099-recover-binary-search-tree) |
+| [0101-symmetric-tree](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0101-symmetric-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
