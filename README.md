@@ -174,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0142-linked-list-cycle-ii) |
 | [0169-majority-element](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0169-majority-element) |
+| [0187-repeated-dna-sequences](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0187-repeated-dna-sequences) |
 | [0202-happy-number](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0217-contains-duplicate) |
@@ -244,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0131-palindrome-partitioning](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0131-palindrome-partitioning) |
 | [0168-excel-sheet-column-title](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0171-excel-sheet-column-number) |
+| [0187-repeated-dna-sequences](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0187-repeated-dna-sequences) |
 | [0205-isomorphic-strings](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0205-isomorphic-strings) |
 | [0214-shortest-palindrome](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0214-shortest-palindrome) |
 | [0242-valid-anagram](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0242-valid-anagram) |
@@ -485,6 +487,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0187-repeated-dna-sequences](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0187-repeated-dna-sequences) |
 | [0219-contains-duplicate-ii](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0219-contains-duplicate-ii) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
@@ -570,6 +573,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0089-gray-code](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0089-gray-code) |
 | [0090-subsets-ii](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0136-single-number) |
+| [0187-repeated-dna-sequences](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0187-repeated-dna-sequences) |
 | [0190-reverse-bits](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0191-number-of-1-bits) |
 | [0201-bitwise-and-of-numbers-range](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0201-bitwise-and-of-numbers-range) |
@@ -858,10 +862,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Rolling Hash
 |  |
 | ------- |
+| [0187-repeated-dna-sequences](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0187-repeated-dna-sequences) |
 | [0214-shortest-palindrome](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0214-shortest-palindrome) |
 ## Hash Function
 |  |
 | ------- |
+| [0187-repeated-dna-sequences](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0187-repeated-dna-sequences) |
 | [0214-shortest-palindrome](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0214-shortest-palindrome) |
 ## Topological Sort
 |  |
@@ -1053,4 +1059,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0099-recover-binary-search-tree) |
+## Z Algorithm
+|  |
+| ------- |
+| [0187-repeated-dna-sequences](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0187-repeated-dna-sequences) |
+## Boyer–Moore String-Search Algorithm
+|  |
+| ------- |
+| [0187-repeated-dna-sequences](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0187-repeated-dna-sequences) |
 <!---LeetCode Topics End-->
