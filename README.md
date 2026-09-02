@@ -647,6 +647,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0072-edit-distance](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0072-edit-distance) |
 | [0085-maximal-rectangle](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0085-maximal-rectangle) |
 | [0091-decode-ways](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0091-decode-ways) |
+| [0095-unique-binary-search-trees-ii](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0095-unique-binary-search-trees-ii) |
 | [0118-pascals-triangle](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0119-pascals-triangle-ii) |
 | [0120-triangle](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0120-triangle) |
@@ -866,6 +867,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0079-word-search) |
 | [0089-gray-code](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0089-gray-code) |
 | [0090-subsets-ii](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0090-subsets-ii) |
+| [0095-unique-binary-search-trees-ii](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0095-unique-binary-search-trees-ii) |
 | [0131-palindrome-partitioning](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0131-palindrome-partitioning) |
 | [0257-binary-tree-paths](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0257-binary-tree-paths) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3348-smallest-divisible-digit-product-ii) |
@@ -1075,6 +1077,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0094-binary-tree-inorder-traversal) |
+| [0095-unique-binary-search-trees-ii](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0095-unique-binary-search-trees-ii) |
 | [0098-validate-binary-search-tree](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0099-recover-binary-search-tree) |
 | [0101-symmetric-tree](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0101-symmetric-tree) |
@@ -1083,6 +1086,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0094-binary-tree-inorder-traversal) |
+| [0095-unique-binary-search-trees-ii](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0095-unique-binary-search-trees-ii) |
 | [0098-validate-binary-search-tree](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0099-recover-binary-search-tree) |
 | [0101-symmetric-tree](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0101-symmetric-tree) |
@@ -1090,6 +1094,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search Tree
 |  |
 | ------- |
+| [0095-unique-binary-search-trees-ii](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0095-unique-binary-search-trees-ii) |
 | [0098-validate-binary-search-tree](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0099-recover-binary-search-tree) |
 ## Z Algorithm
