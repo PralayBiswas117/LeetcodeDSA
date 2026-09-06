@@ -260,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0044-wildcard-matching](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0044-wildcard-matching) |
 | [0049-group-anagrams](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0058-length-of-last-word) |
+| [0065-valid-number](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0065-valid-number) |
 | [0067-add-binary](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0067-add-binary) |
 | [0068-text-justification](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0068-text-justification) |
 | [0072-edit-distance](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0072-edit-distance) |
