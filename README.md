@@ -187,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0073-set-matrix-zeroes) |
+| [0076-minimum-window-substring](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0076-minimum-window-substring) |
 | [0141-linked-list-cycle](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0142-linked-list-cycle-ii) |
 | [0169-majority-element](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0169-majority-element) |
@@ -264,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0067-add-binary) |
 | [0068-text-justification](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0068-text-justification) |
 | [0072-edit-distance](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0072-edit-distance) |
+| [0076-minimum-window-substring](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0076-minimum-window-substring) |
 | [0079-word-search](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0079-word-search) |
 | [0091-decode-ways](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0091-decode-ways) |
 | [0097-interleaving-string](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0097-interleaving-string) |
@@ -532,6 +534,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [0076-minimum-window-substring](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0076-minimum-window-substring) |
 | [0187-repeated-dna-sequences](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0187-repeated-dna-sequences) |
 | [0219-contains-duplicate-ii](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0219-contains-duplicate-ii) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
