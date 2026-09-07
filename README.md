@@ -297,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0564-find-the-closest-palindrome](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0564-find-the-closest-palindrome) |
 | [0657-robot-return-to-origin](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0657-robot-return-to-origin) |
 | [0680-valid-palindrome-ii](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0680-valid-palindrome-ii) |
+| [0940-distinct-subsequences-ii](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0940-distinct-subsequences-ii) |
 | [1108-defanging-an-ip-address](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/1108-defanging-an-ip-address) |
 | [1189-maximum-number-of-balloons](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/1189-maximum-number-of-balloons) |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
@@ -706,6 +707,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0788-rotated-digits](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0788-rotated-digits) |
 | [0818-race-car](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0818-race-car) |
 | [0877-stone-game](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0877-stone-game) |
+| [0940-distinct-subsequences-ii](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0940-distinct-subsequences-ii) |
 | [1025-divisor-game](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/1025-divisor-game) |
 | [1140-stone-game-ii](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/1140-stone-game-ii) |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
