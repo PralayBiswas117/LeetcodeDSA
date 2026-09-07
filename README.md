@@ -406,6 +406,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0070-climbing-stairs) |
 | [0089-gray-code](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0089-gray-code) |
+| [0096-unique-binary-search-trees](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0096-unique-binary-search-trees) |
 | [0168-excel-sheet-column-title](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0171-excel-sheet-column-number) |
 | [0189-rotate-array](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0189-rotate-array) |
@@ -691,6 +692,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0085-maximal-rectangle](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0085-maximal-rectangle) |
 | [0091-decode-ways](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0091-decode-ways) |
 | [0095-unique-binary-search-trees-ii](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0095-unique-binary-search-trees-ii) |
+| [0096-unique-binary-search-trees](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0096-unique-binary-search-trees) |
 | [0097-interleaving-string](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0097-interleaving-string) |
 | [0115-distinct-subsequences](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0115-distinct-subsequences) |
 | [0118-pascals-triangle](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0118-pascals-triangle) |
@@ -1142,6 +1144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0094-binary-tree-inorder-traversal) |
 | [0095-unique-binary-search-trees-ii](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0095-unique-binary-search-trees-ii) |
+| [0096-unique-binary-search-trees](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0099-recover-binary-search-tree) |
 | [0101-symmetric-tree](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0101-symmetric-tree) |
@@ -1151,6 +1154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0094-binary-tree-inorder-traversal) |
 | [0095-unique-binary-search-trees-ii](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0095-unique-binary-search-trees-ii) |
+| [0096-unique-binary-search-trees](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0099-recover-binary-search-tree) |
 | [0101-symmetric-tree](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0101-symmetric-tree) |
@@ -1159,6 +1163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0095-unique-binary-search-trees-ii](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0095-unique-binary-search-trees-ii) |
+| [0096-unique-binary-search-trees](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0099-recover-binary-search-tree) |
 ## Z Algorithm
