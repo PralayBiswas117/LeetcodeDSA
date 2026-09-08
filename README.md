@@ -782,6 +782,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0101-symmetric-tree) |
 | [0733-flood-fill](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0733-flood-fill) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
@@ -986,6 +987,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0094-binary-tree-inorder-traversal) |
 | [0098-validate-binary-search-tree](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0099-recover-binary-search-tree) |
+| [0100-same-tree](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0101-symmetric-tree) |
 | [0257-binary-tree-paths](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0257-binary-tree-paths) |
 | [0472-concatenated-words](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0472-concatenated-words) |
@@ -1148,6 +1150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0096-unique-binary-search-trees](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0099-recover-binary-search-tree) |
+| [0100-same-tree](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0101-symmetric-tree) |
 | [0257-binary-tree-paths](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0257-binary-tree-paths) |
 ## Binary Tree
@@ -1158,6 +1161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0096-unique-binary-search-trees](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0099-recover-binary-search-tree) |
+| [0100-same-tree](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0101-symmetric-tree) |
 | [0257-binary-tree-paths](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0257-binary-tree-paths) |
 ## Binary Search Tree
