@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
+| [0128-longest-consecutive-sequence](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0128-longest-consecutive-sequence) |
 | [0134-gas-station](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0134-gas-station) |
 | [0136-single-number](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0169-majority-element) |
@@ -202,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0126-word-ladder-ii](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0127-word-ladder) |
+| [0128-longest-consecutive-sequence](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0142-linked-list-cycle-ii) |
 | [0169-majority-element](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0169-majority-element) |
@@ -830,6 +832,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0128-longest-consecutive-sequence) |
 | [1998-gcd-sort-of-an-array](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/1998-gcd-sort-of-an-array) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2573-find-the-string-with-lcp](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/2573-find-the-string-with-lcp) |
