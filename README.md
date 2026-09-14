@@ -294,6 +294,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0126-word-ladder-ii](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0127-word-ladder) |
 | [0131-palindrome-partitioning](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0131-palindrome-partitioning) |
+| [0132-palindrome-partitioning-ii](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0132-palindrome-partitioning-ii) |
 | [0168-excel-sheet-column-title](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0171-excel-sheet-column-number) |
 | [0187-repeated-dna-sequences](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0187-repeated-dna-sequences) |
@@ -733,6 +734,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0131-palindrome-partitioning](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0131-palindrome-partitioning) |
+| [0132-palindrome-partitioning-ii](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0132-palindrome-partitioning-ii) |
 | [0198-house-robber](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0198-house-robber) |
 | [0264-ugly-number-ii](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0264-ugly-number-ii) |
 | [0392-is-subsequence](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0392-is-subsequence) |
