@@ -641,6 +641,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0142-linked-list-cycle-ii) |
+| [0143-reorder-list](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0143-reorder-list) |
 | [0189-rotate-array](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0202-happy-number) |
 | [0287-find-the-duplicate-number](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0287-find-the-duplicate-number) |
@@ -924,6 +925,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0044-wildcard-matching](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0044-wildcard-matching) |
 | [0050-powx-n](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0050-powx-n) |
 | [0060-permutation-sequence](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0060-permutation-sequence) |
+| [0143-reorder-list](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0326-power-of-three) |
@@ -952,6 +954,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0085-maximal-rectangle](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0085-maximal-rectangle) |
 | [0094-binary-tree-inorder-traversal](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0094-binary-tree-inorder-traversal) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0143-reorder-list](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0143-reorder-list) |
 | [0316-remove-duplicate-letters](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0316-remove-duplicate-letters) |
 | [0321-create-maximum-number](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0321-create-maximum-number) |
 | [0496-next-greater-element-i](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0496-next-greater-element-i) |
@@ -986,6 +989,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0138-copy-list-with-random-pointer](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0142-linked-list-cycle-ii) |
+| [0143-reorder-list](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0143-reorder-list) |
 | [0147-insertion-sort-list](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0147-insertion-sort-list) |
 | [0206-reverse-linked-list](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0206-reverse-linked-list) |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
