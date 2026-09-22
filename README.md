@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0189-rotate-array](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0198-house-robber) |
+| [0200-number-of-islands](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0200-number-of-islands) |
 | [0215-kth-largest-element-in-an-array](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0219-contains-duplicate-ii) |
@@ -898,6 +899,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0127-word-ladder](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0127-word-ladder) |
 | [0130-surrounded-regions](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0130-surrounded-regions) |
 | [0133-clone-graph](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0133-clone-graph) |
+| [0200-number-of-islands](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0200-number-of-islands) |
 | [0733-flood-fill](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0733-flood-fill) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/2685-count-the-number-of-complete-components) |
@@ -909,6 +911,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0130-surrounded-regions) |
+| [0200-number-of-islands](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0200-number-of-islands) |
 | [1998-gcd-sort-of-an-array](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/1998-gcd-sort-of-an-array) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2573-find-the-string-with-lcp](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/2573-find-the-string-with-lcp) |
@@ -930,6 +933,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0085-maximal-rectangle](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0085-maximal-rectangle) |
 | [0130-surrounded-regions](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0130-surrounded-regions) |
 | [0174-dungeon-game](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0174-dungeon-game) |
+| [0200-number-of-islands](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0200-number-of-islands) |
 | [0240-search-a-2d-matrix-ii](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0240-search-a-2d-matrix-ii) |
 | [0289-game-of-life](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0289-game-of-life) |
 | [0733-flood-fill](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0733-flood-fill) |
@@ -1153,6 +1157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0133-clone-graph](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0133-clone-graph) |
 | [0144-binary-tree-preorder-traversal](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0145-binary-tree-postorder-traversal) |
+| [0200-number-of-islands](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0200-number-of-islands) |
 | [0257-binary-tree-paths](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0257-binary-tree-paths) |
 | [0472-concatenated-words](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0472-concatenated-words) |
 | [0733-flood-fill](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0733-flood-fill) |
