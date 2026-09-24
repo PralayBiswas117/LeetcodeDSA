@@ -151,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [1998-gcd-sort-of-an-array](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/1998-gcd-sort-of-an-array) |
 | [2029-stone-game-ix](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/2029-stone-game-ix) |
+| [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/2091-removing-minimum-and-maximum-from-array) |
@@ -433,6 +434,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [1998-gcd-sort-of-an-array](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/1998-gcd-sort-of-an-array) |
+| [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2094-finding-3-digit-even-numbers](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/2094-finding-3-digit-even-numbers) |
@@ -514,6 +516,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1979-find-greatest-common-divisor-of-array](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [1998-gcd-sort-of-an-array](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/1998-gcd-sort-of-an-array) |
 | [2029-stone-game-ix](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/2029-stone-game-ix) |
+| [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2396-strictly-palindromic-number](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/2396-strictly-palindromic-number) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
@@ -962,6 +965,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0835-image-overlap](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0835-image-overlap) |
 | [1260-shift-2d-grid](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/1260-shift-2d-grid) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2573-find-the-string-with-lcp](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/2573-find-the-string-with-lcp) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
