@@ -197,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3620-network-recovery-pathways](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3620-network-recovery-pathways) |
+| [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3655-xor-after-range-multiplication-queries-ii](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3655-xor-after-range-multiplication-queries-ii) |
 | [3660-jump-game-ix](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3660-jump-game-ix) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
@@ -292,6 +293,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3548-equal-sum-grid-partition-ii) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3568-minimum-moves-to-clean-the-classroom) |
+| [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3731-find-missing-elements) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
@@ -544,6 +546,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3536-maximum-product-of-two-digits](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3536-maximum-product-of-two-digits) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
+| [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 | [3783-mirror-distance-of-an-integer](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3783-mirror-distance-of-an-integer) |
@@ -563,6 +566,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3312-sorted-gcd-pair-queries](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3348-smallest-divisible-digit-product-ii) |
+| [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Binary Search
@@ -946,6 +950,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2812-find-the-safest-path-in-a-grid](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3568-minimum-moves-to-clean-the-classroom) |
+| [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 ## Union-Find
 |  |
 | ------- |
