@@ -141,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1637-widest-vertical-area-between-two-points-containing-no-points](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/1637-widest-vertical-area-between-two-points-containing-no-points) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
+| [1674-minimum-moves-to-make-array-complementary](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [1686-stone-game-vi](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/1686-stone-game-vi) |
 | [1710-maximum-units-on-a-truck](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/1710-maximum-units-on-a-truck) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
@@ -282,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1630-arithmetic-subarrays](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/1630-arithmetic-subarrays) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [1674-minimum-moves-to-make-array-complementary](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2094-finding-3-digit-even-numbers](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/2094-finding-3-digit-even-numbers) |
 | [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/2099-find-subsequence-of-length-k-with-the-largest-sum) |
@@ -641,6 +643,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/1140-stone-game-ii) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [1674-minimum-moves-to-make-array-complementary](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [1872-stone-game-viii](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/1872-stone-game-viii) |
 | [2251-number-of-flowers-in-full-bloom](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/2251-number-of-flowers-in-full-bloom) |
 | [3225-maximum-score-from-grid-operations](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3225-maximum-score-from-grid-operations) |
