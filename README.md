@@ -124,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/1140-stone-game-ii) |
 | [1191-k-concatenation-maximum-sum](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/1191-k-concatenation-maximum-sum) |
 | [1200-minimum-absolute-difference](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/1200-minimum-absolute-difference) |
+| [1202-smallest-string-with-swaps](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/1202-smallest-string-with-swaps) |
 | [1260-shift-2d-grid](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/1260-shift-2d-grid) |
 | [1331-rank-transform-of-an-array](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/1331-rank-transform-of-an-array) |
 | [1340-jump-game-v](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/1340-jump-game-v) |
@@ -276,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0888-fair-candy-swap](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0888-fair-candy-swap) |
 | [1096-brace-expansion-ii](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/1096-brace-expansion-ii) |
 | [1189-maximum-number-of-balloons](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/1189-maximum-number-of-balloons) |
+| [1202-smallest-string-with-swaps](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/1202-smallest-string-with-swaps) |
 | [1331-rank-transform-of-an-array](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/1331-rank-transform-of-an-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1386-cinema-seat-allocation](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/1386-cinema-seat-allocation) |
@@ -383,6 +385,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1108-defanging-an-ip-address](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/1108-defanging-an-ip-address) |
 | [1189-maximum-number-of-balloons](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/1189-maximum-number-of-balloons) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
+| [1202-smallest-string-with-swaps](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/1202-smallest-string-with-swaps) |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
@@ -437,6 +440,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0969-pancake-sorting](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0969-pancake-sorting) |
 | [1096-brace-expansion-ii](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/1096-brace-expansion-ii) |
 | [1200-minimum-absolute-difference](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/1200-minimum-absolute-difference) |
+| [1202-smallest-string-with-swaps](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/1202-smallest-string-with-swaps) |
 | [1331-rank-transform-of-an-array](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/1331-rank-transform-of-an-array) |
 | [1340-jump-game-v](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/1340-jump-game-v) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
@@ -971,6 +975,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0210-course-schedule-ii](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0210-course-schedule-ii) |
 | [0733-flood-fill](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0733-flood-fill) |
 | [1096-brace-expansion-ii](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/1096-brace-expansion-ii) |
+| [1202-smallest-string-with-swaps](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/1202-smallest-string-with-swaps) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/2685-count-the-number-of-complete-components) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -983,6 +988,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0200-number-of-islands) |
+| [1202-smallest-string-with-swaps](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/1202-smallest-string-with-swaps) |
 | [1998-gcd-sort-of-an-array](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/1998-gcd-sort-of-an-array) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2573-find-the-string-with-lcp](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/2573-find-the-string-with-lcp) |
@@ -1250,6 +1256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0472-concatenated-words](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0472-concatenated-words) |
 | [0733-flood-fill](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0733-flood-fill) |
 | [1192-critical-connections-in-a-network](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/1192-critical-connections-in-a-network) |
+| [1202-smallest-string-with-swaps](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/1202-smallest-string-with-swaps) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/2685-count-the-number-of-complete-components) |
