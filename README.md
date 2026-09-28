@@ -189,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2965-find-missing-and-repeated-values](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/2965-find-missing-and-repeated-values) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3043-find-the-length-of-the-longest-common-prefix](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3225-maximum-score-from-grid-operations](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3225-maximum-score-from-grid-operations) |
@@ -306,6 +307,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2965-find-missing-and-repeated-values](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/2965-find-missing-and-repeated-values) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3043-find-the-length-of-the-longest-common-prefix](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3312-sorted-gcd-pair-queries](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3312-sorted-gcd-pair-queries) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3483-unique-3-digit-even-numbers](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3483-unique-3-digit-even-numbers) |
@@ -407,6 +409,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3043-find-the-length-of-the-longest-common-prefix](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3474-lexicographically-smallest-generated-string](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3474-lexicographically-smallest-generated-string) |
@@ -1284,6 +1287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0208-implement-trie-prefix-tree](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0472-concatenated-words](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0472-concatenated-words) |
+| [3043-find-the-length-of-the-longest-common-prefix](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 ## Game Theory
 |  |
 | ------- |
