@@ -148,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [1686-stone-game-vi](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/1686-stone-game-vi) |
 | [1710-maximum-units-on-a-truck](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/1710-maximum-units-on-a-truck) |
+| [1752-check-if-array-is-sorted-and-rotated](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1833-maximum-ice-cream-bars](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/1833-maximum-ice-cream-bars) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/1848-minimum-distance-to-the-target-element) |
