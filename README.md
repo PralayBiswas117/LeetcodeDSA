@@ -1161,6 +1161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0155-min-stack) |
 | [0173-binary-search-tree-iterator](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0173-binary-search-tree-iterator) |
+| [0232-implement-queue-using-stacks](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0234-palindrome-linked-list) |
 | [0316-remove-duplicate-letters](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0316-remove-duplicate-letters) |
 | [0321-create-maximum-number](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0321-create-maximum-number) |
@@ -1431,6 +1432,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0173-binary-search-tree-iterator](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0173-binary-search-tree-iterator) |
 | [0208-implement-trie-prefix-tree](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0211-design-add-and-search-words-data-structure) |
+| [0232-implement-queue-using-stacks](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0232-implement-queue-using-stacks) |
 | [0384-shuffle-an-array](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0384-shuffle-an-array) |
 | [0933-number-of-recent-calls](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0933-number-of-recent-calls) |
 | [2069-walking-robot-simulation-ii](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/2069-walking-robot-simulation-ii) |
@@ -1457,6 +1459,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Queue
 |  |
 | ------- |
+| [0232-implement-queue-using-stacks](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0232-implement-queue-using-stacks) |
 | [0933-number-of-recent-calls](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0933-number-of-recent-calls) |
 ## Data Stream
 |  |
