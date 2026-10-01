@@ -785,6 +785,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0202-happy-number) |
+| [0234-palindrome-linked-list](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0234-palindrome-linked-list) |
 | [0287-find-the-duplicate-number](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0287-find-the-duplicate-number) |
 | [0321-create-maximum-number](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0321-create-maximum-number) |
 | [0344-reverse-string](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0344-reverse-string) |
@@ -1124,6 +1125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0203-remove-linked-list-elements](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0231-power-of-two) |
+| [0234-palindrome-linked-list](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0234-palindrome-linked-list) |
 | [0326-power-of-three](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0342-power-of-four) |
 | [0486-predict-the-winner](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0486-predict-the-winner) |
@@ -1156,6 +1158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0155-min-stack) |
 | [0173-binary-search-tree-iterator](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0173-binary-search-tree-iterator) |
+| [0234-palindrome-linked-list](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0234-palindrome-linked-list) |
 | [0316-remove-duplicate-letters](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0316-remove-duplicate-letters) |
 | [0321-create-maximum-number](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0321-create-maximum-number) |
 | [0496-next-greater-element-i](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0496-next-greater-element-i) |
@@ -1201,6 +1204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0160-intersection-of-two-linked-lists) |
 | [0203-remove-linked-list-elements](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0234-palindrome-linked-list) |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 ## Backtracking
 |  |
