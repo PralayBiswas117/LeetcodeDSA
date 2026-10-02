@@ -173,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2164-sort-even-and-odd-indices-independently](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/2164-sort-even-and-odd-indices-independently) |
+| [2196-create-binary-tree-from-descriptions](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2251-number-of-flowers-in-full-bloom](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/2251-number-of-flowers-in-full-bloom) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
@@ -307,6 +308,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2094-finding-3-digit-even-numbers](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/2094-finding-3-digit-even-numbers) |
 | [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/2099-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/2154-keep-multiplying-found-values-by-two) |
+| [2196-create-binary-tree-from-descriptions](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2251-number-of-flowers-in-full-bloom](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/2251-number-of-flowers-in-full-bloom) |
 | [2540-minimum-common-value](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/2540-minimum-common-value) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
@@ -1526,6 +1528,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0173-binary-search-tree-iterator](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0173-binary-search-tree-iterator) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0257-binary-tree-paths](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0257-binary-tree-paths) |
+| [2196-create-binary-tree-from-descriptions](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Binary Tree
 |  |
@@ -1558,6 +1561,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0173-binary-search-tree-iterator](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0173-binary-search-tree-iterator) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0257-binary-tree-paths](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0257-binary-tree-paths) |
+| [2196-create-binary-tree-from-descriptions](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Binary Search Tree
 |  |
