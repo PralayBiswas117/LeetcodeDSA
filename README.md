@@ -172,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/2154-keep-multiplying-found-values-by-two) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2164-sort-even-and-odd-indices-independently](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/2164-sort-even-and-odd-indices-independently) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/2213-longest-substring-of-one-repeating-character) |
@@ -807,6 +808,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1861-rotating-the-box](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/1861-rotating-the-box) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/1877-minimize-maximum-pair-sum-in-array) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2396-strictly-palindromic-number](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/2396-strictly-palindromic-number) |
 | [2540-minimum-common-value](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/2540-minimum-common-value) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -866,6 +868,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1914-cyclically-rotating-a-grid](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/1914-cyclically-rotating-a-grid) |
 | [2069-walking-robot-simulation-ii](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/2069-walking-robot-simulation-ii) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/2154-keep-multiplying-found-values-by-two) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2553-separate-the-digits-in-an-array](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/2553-separate-the-digits-in-an-array) |
 | [2751-robot-collisions](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/2751-robot-collisions) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
