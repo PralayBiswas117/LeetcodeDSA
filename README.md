@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0561-array-partition](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0561-array-partition) |
 | [0575-distribute-candies](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0575-distribute-candies) |
 | [0628-maximum-product-of-three-numbers](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0628-maximum-product-of-three-numbers) |
+| [0679-24-game](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0679-24-game) |
 | [0682-baseball-game](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0682-baseball-game) |
 | [0697-degree-of-an-array](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0697-degree-of-an-array) |
 | [0704-binary-search](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0704-binary-search) |
@@ -566,6 +567,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0509-fibonacci-number) |
 | [0564-find-the-closest-palindrome](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0564-find-the-closest-palindrome) |
 | [0628-maximum-product-of-three-numbers](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0628-maximum-product-of-three-numbers) |
+| [0679-24-game](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0679-24-game) |
 | [0728-self-dividing-numbers](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0728-self-dividing-numbers) |
 | [0788-rotated-digits](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0788-rotated-digits) |
 | [0836-rectangle-overlap](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0836-rectangle-overlap) |
@@ -1255,6 +1257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0131-palindrome-partitioning](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0131-palindrome-partitioning) |
 | [0140-word-break-ii](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0140-word-break-ii) |
 | [0257-binary-tree-paths](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0257-binary-tree-paths) |
+| [0679-24-game](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0679-24-game) |
 | [1096-brace-expansion-ii](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/1096-brace-expansion-ii) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Merge Sort
