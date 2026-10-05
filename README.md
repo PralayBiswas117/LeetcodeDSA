@@ -199,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2965-find-missing-and-repeated-values](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/2965-find-missing-and-repeated-values) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3093-longest-common-suffix-queries](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3093-longest-common-suffix-queries) |
@@ -326,6 +327,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2965-find-missing-and-repeated-values](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/2965-find-missing-and-repeated-values) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3121-count-the-number-of-special-characters-ii) |
@@ -1325,6 +1327,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0204-count-primes) |
 | [1291-sequential-digits](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/1291-sequential-digits) |
 | [2094-finding-3-digit-even-numbers](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/2094-finding-3-digit-even-numbers) |
+| [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3483-unique-3-digit-even-numbers](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3483-unique-3-digit-even-numbers) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3514-number-of-unique-xor-triplets-ii) |
