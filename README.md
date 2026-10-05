@@ -163,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [1914-cyclically-rotating-a-grid](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/1914-cyclically-rotating-a-grid) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [1998-gcd-sort-of-an-array](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/1998-gcd-sort-of-an-array) |
@@ -433,6 +434,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1859-sorting-the-sentence](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/1859-sorting-the-sentence) |
 | [1871-jump-game-vii](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/1871-jump-game-vii) |
 | [1927-sum-game](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/1927-sum-game) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2573-find-the-string-with-lcp](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/2573-find-the-string-with-lcp) |
