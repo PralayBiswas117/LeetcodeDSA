@@ -623,6 +623,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3525-find-x-value-of-array-ii](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3525-find-x-value-of-array-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3536-maximum-product-of-two-digits) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
+| [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -1382,6 +1383,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/2685-count-the-number-of-complete-components) |
+| [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 ## Trie
 |  |
 | ------- |
@@ -1587,6 +1589,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0257-binary-tree-paths](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0257-binary-tree-paths) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
+| [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 ## Binary Tree
 |  |
 | ------- |
