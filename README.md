@@ -233,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3655-xor-after-range-multiplication-queries-ii](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3655-xor-after-range-multiplication-queries-ii) |
 | [3660-jump-game-ix](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3660-jump-game-ix) |
+| [3691-maximum-total-subarray-value-ii](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3691-maximum-total-subarray-value-ii) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3731-find-missing-elements) |
@@ -788,6 +789,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2812-find-the-safest-path-in-a-grid](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3620-network-recovery-pathways](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3620-network-recovery-pathways) |
+| [3691-maximum-total-subarray-value-ii](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3691-maximum-total-subarray-value-ii) |
 ## Quickselect
 |  |
 | ------- |
@@ -1028,6 +1030,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
+| [3691-maximum-total-subarray-value-ii](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3691-maximum-total-subarray-value-ii) |
 ## Graph Theory
 |  |
 | ------- |
@@ -1476,6 +1479,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2213-longest-substring-of-one-repeating-character](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [3161-block-placement-queries](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3161-block-placement-queries) |
 | [3525-find-x-value-of-array-ii](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3525-find-x-value-of-array-ii) |
+| [3691-maximum-total-subarray-value-ii](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3691-maximum-total-subarray-value-ii) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Ordered Set
