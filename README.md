@@ -404,6 +404,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0242-valid-anagram) |
 | [0257-binary-tree-paths](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0257-binary-tree-paths) |
 | [0290-word-pattern](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0290-word-pattern) |
+| [0301-remove-invalid-parentheses](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0301-remove-invalid-parentheses) |
 | [0316-remove-duplicate-letters](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0316-remove-duplicate-letters) |
 | [0344-reverse-string](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0345-reverse-vowels-of-a-string) |
@@ -1080,6 +1081,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0210-course-schedule-ii) |
+| [0301-remove-invalid-parentheses](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0301-remove-invalid-parentheses) |
 | [0733-flood-fill](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0733-flood-fill) |
 | [1096-brace-expansion-ii](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/1096-brace-expansion-ii) |
 | [1202-smallest-string-with-swaps](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/1202-smallest-string-with-swaps) |
@@ -1300,6 +1302,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0212-word-search-ii](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0212-word-search-ii) |
 | [0216-combination-sum-iii](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0216-combination-sum-iii) |
 | [0257-binary-tree-paths](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0257-binary-tree-paths) |
+| [0301-remove-invalid-parentheses](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0301-remove-invalid-parentheses) |
 | [0679-24-game](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0679-24-game) |
 | [1096-brace-expansion-ii](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/1096-brace-expansion-ii) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3348-smallest-divisible-digit-product-ii) |
