@@ -583,6 +583,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0202-happy-number) |
 | [0204-count-primes](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0204-count-primes) |
+| [0223-rectangle-area](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0223-rectangle-area) |
 | [0231-power-of-two](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0231-power-of-two) |
 | [0233-number-of-digit-one](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0233-number-of-digit-one) |
 | [0258-add-digits](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0258-add-digits) |
@@ -1717,6 +1718,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0149-max-points-on-a-line](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0149-max-points-on-a-line) |
+| [0223-rectangle-area](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0223-rectangle-area) |
 | [0836-rectangle-overlap](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0836-rectangle-overlap) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/1401-circle-and-rectangle-overlapping) |
 ## Brute-Force Search
