@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0216-combination-sum-iii](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0216-combination-sum-iii) |
 | [0217-contains-duplicate](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0217-contains-duplicate) |
+| [0218-the-skyline-problem](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0218-the-skyline-problem) |
 | [0219-contains-duplicate-ii](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0238-product-of-array-except-self) |
 | [0240-search-a-2d-matrix-ii](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0240-search-a-2d-matrix-ii) |
@@ -484,6 +485,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0217-contains-duplicate) |
+| [0218-the-skyline-problem](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0218-the-skyline-problem) |
 | [0242-valid-anagram](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0268-missing-number) |
 | [0324-wiggle-sort-ii](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0324-wiggle-sort-ii) |
@@ -784,6 +786,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0190-reverse-bits](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0191-number-of-1-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0215-kth-largest-element-in-an-array) |
+| [0218-the-skyline-problem](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0218-the-skyline-problem) |
 | [0240-search-a-2d-matrix-ii](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0240-search-a-2d-matrix-ii) |
 | [0324-wiggle-sort-ii](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0324-wiggle-sort-ii) |
 | [0912-sort-an-array](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0912-sort-an-array) |
@@ -796,6 +799,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0215-kth-largest-element-in-an-array) |
+| [0218-the-skyline-problem](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0218-the-skyline-problem) |
 | [0264-ugly-number-ii](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0264-ugly-number-ii) |
 | [0912-sort-an-array](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0912-sort-an-array) |
 | [1383-maximum-performance-of-a-team](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/1383-maximum-performance-of-a-team) |
@@ -1508,6 +1512,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Segment Tree
 |  |
 | ------- |
+| [0218-the-skyline-problem](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0218-the-skyline-problem) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [3161-block-placement-queries](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3161-block-placement-queries) |
 | [3525-find-x-value-of-array-ii](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3525-find-x-value-of-array-ii) |
@@ -1517,6 +1522,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Ordered Set
 |  |
 | ------- |
+| [0218-the-skyline-problem](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0218-the-skyline-problem) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2251-number-of-flowers-in-full-bloom](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/2251-number-of-flowers-in-full-bloom) |
 | [3161-block-placement-queries](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3161-block-placement-queries) |
@@ -1752,5 +1758,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Indexed Tree
 |  |
 | ------- |
+| [0218-the-skyline-problem](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0218-the-skyline-problem) |
 | [3161-block-placement-queries](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3161-block-placement-queries) |
+## Sweep Line
+|  |
+| ------- |
+| [0218-the-skyline-problem](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0218-the-skyline-problem) |
 <!---LeetCode Topics End-->
