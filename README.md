@@ -203,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2778-sum-of-squares-of-special-elements](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2784-check-if-array-is-good](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/2784-check-if-array-is-good) |
 | [2788-split-strings-by-separator](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/2788-split-strings-by-separator) |
+| [2789-largest-element-in-an-array-after-merge-operations](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/2789-largest-element-in-an-array-after-merge-operations) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
@@ -1062,6 +1063,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2573-find-the-string-with-lcp](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/2573-find-the-string-with-lcp) |
+| [2789-largest-element-in-an-array-after-merge-operations](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/2789-largest-element-in-an-array-after-merge-operations) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
