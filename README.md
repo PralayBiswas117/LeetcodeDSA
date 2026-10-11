@@ -204,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2784-check-if-array-is-good](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/2784-check-if-array-is-good) |
 | [2788-split-strings-by-separator](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/2788-split-strings-by-separator) |
 | [2789-largest-element-in-an-array-after-merge-operations](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/2789-largest-element-in-an-array-after-merge-operations) |
+| [2790-maximum-number-of-groups-with-increasing-length](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/2790-maximum-number-of-groups-with-increasing-length) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
@@ -550,6 +551,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2733-neither-minimum-nor-maximum](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/2733-neither-minimum-nor-maximum) |
 | [2751-robot-collisions](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/2751-robot-collisions) |
 | [2784-check-if-array-is-good](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/2784-check-if-array-is-good) |
+| [2790-maximum-number-of-groups-with-increasing-length](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/2790-maximum-number-of-groups-with-increasing-length) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -629,6 +631,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2396-strictly-palindromic-number](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/2396-strictly-palindromic-number) |
+| [2790-maximum-number-of-groups-with-increasing-length](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/2790-maximum-number-of-groups-with-increasing-length) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [2965-find-missing-and-repeated-values](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/2965-find-missing-and-repeated-values) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -708,6 +711,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2251-number-of-flowers-in-full-bloom](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/2251-number-of-flowers-in-full-bloom) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2540-minimum-common-value](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/2540-minimum-common-value) |
+| [2790-maximum-number-of-groups-with-increasing-length](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/2790-maximum-number-of-groups-with-increasing-length) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3161-block-placement-queries](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3161-block-placement-queries) |
@@ -1064,6 +1068,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2333-minimum-sum-of-squared-difference](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2573-find-the-string-with-lcp](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/2573-find-the-string-with-lcp) |
 | [2789-largest-element-in-an-array-after-merge-operations](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/2789-largest-element-in-an-array-after-merge-operations) |
+| [2790-maximum-number-of-groups-with-increasing-length](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/2790-maximum-number-of-groups-with-increasing-length) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
