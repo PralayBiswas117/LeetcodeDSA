@@ -210,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2899-last-visited-integers](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/2899-last-visited-integers) |
 | [2900-longest-unequal-adjacent-groups-subsequence-i](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/2900-longest-unequal-adjacent-groups-subsequence-i) |
 | [2901-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/2901-longest-unequal-adjacent-groups-subsequence-ii) |
+| [2902-count-of-sub-multisets-with-bounded-sum](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/2902-count-of-sub-multisets-with-bounded-sum) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -345,6 +346,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2791-count-paths-that-can-form-a-palindrome-in-a-tree](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/2791-count-paths-that-can-form-a-palindrome-in-a-tree) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
+| [2902-count-of-sub-multisets-with-bounded-sum](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/2902-count-of-sub-multisets-with-bounded-sum) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2965-find-missing-and-repeated-values](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/2965-find-missing-and-repeated-values) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -791,6 +793,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1871-jump-game-vii](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/1871-jump-game-vii) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
+| [2902-count-of-sub-multisets-with-bounded-sum](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/2902-count-of-sub-multisets-with-bounded-sum) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 ## Divide and Conquer
@@ -1028,6 +1031,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 | [2900-longest-unequal-adjacent-groups-subsequence-i](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/2900-longest-unequal-adjacent-groups-subsequence-i) |
 | [2901-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/2901-longest-unequal-adjacent-groups-subsequence-ii) |
+| [2902-count-of-sub-multisets-with-bounded-sum](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/2902-count-of-sub-multisets-with-bounded-sum) |
 | [3225-maximum-score-from-grid-operations](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3225-maximum-score-from-grid-operations) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -1584,6 +1588,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0474-ones-and-zeroes](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0474-ones-and-zeroes) |
+| [2902-count-of-sub-multisets-with-bounded-sum](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/2902-count-of-sub-multisets-with-bounded-sum) |
 ## 0-1 Knapsack
 |  |
 | ------- |
@@ -1806,4 +1811,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0218-the-skyline-problem](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0218-the-skyline-problem) |
+## Multiple Knapsack
+|  |
+| ------- |
+| [2902-count-of-sub-multisets-with-bounded-sum](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/2902-count-of-sub-multisets-with-bounded-sum) |
 <!---LeetCode Topics End-->
