@@ -216,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2915-length-of-the-longest-subsequence-that-sums-to-target](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/2915-length-of-the-longest-subsequence-that-sums-to-target) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [2917-find-the-k-or-of-an-array](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/2917-find-the-k-or-of-an-array) |
+| [2918-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/2918-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -1116,6 +1117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2790-maximum-number-of-groups-with-increasing-length](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/2790-maximum-number-of-groups-with-increasing-length) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2900-longest-unequal-adjacent-groups-subsequence-i](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/2900-longest-unequal-adjacent-groups-subsequence-i) |
+| [2918-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/2918-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
