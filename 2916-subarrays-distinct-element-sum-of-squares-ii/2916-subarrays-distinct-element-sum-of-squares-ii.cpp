@@ -1,68 +1,69 @@
-typedef long long int ll;
-const int MOD = 1e9+7;
+class BIT {
+public:
+    int size;
+    vector<long long> _tree1;
+    vector<long long> _tree2;
 
-struct SegmentTree {    
-    vector<ll> lzy;
-    vector<ll> sum;
-    vector<ll> sqr;
-    int n;
+    BIT(int n) {
+        size = n;
+        _tree1.assign(n + 2, 0);
+        _tree2.assign(n + 2, 0);
+    }
 
-    SegmentTree (int _n) : n(_n) {
-        lzy.resize(4*n, 0);
-        sum.resize(4*n, 0);
-        sqr.resize(4*n, 0);
+    int _lowbit(int index) { return index & -index; }
+
+    void add(int left, int right, int delta) {
+        _add(left, delta);
+        _add(right + 1, -delta);
     }
-    
-    void update_lzy(int l, int r, int i) {
-        if (l != r) {
-            lzy[i*2+1] += lzy[i];
-            lzy[i*2+2] += lzy[i];
-        }
-        ll gap = r-l+1;
-        ll new_sum = sum[i] + lzy[i]*gap;
-        ll new_sqr = sqr[i] + lzy[i]*sum[i]*2 + lzy[i]*lzy[i]*gap;
-        
-        sum[i] = new_sum % MOD;
-        sqr[i] = new_sqr % MOD;
-        lzy[i] = 0;
+
+    long long query(int left, int right) {
+        return _query(right) - _query(left - 1);
     }
-    
-    void AddOne (int x, int y, int l = 0, int r = -1, int i = 0) {
-        if (r == -1) r += n;
-        update_lzy(l, r, i);
-        
-        if (r < x || l > y) return;
-        if (l >= x && r <= y) {
-            lzy[i] = 1;
-            return update_lzy(l, r, i);
+
+private:
+    void _add(int index, int delta) {
+        index += 1;
+        long long rawIndex = index;
+        while (index <= size) {
+            _tree1[index] += delta;
+            _tree2[index] += rawIndex * delta;
+            index += _lowbit(index);
         }
-        
-        int m = (l+r) >> 1;
-        AddOne (x, y, l, m, i*2+1);
-        AddOne (x, y, m+1, r, i*2+2);
-        
-        sum[i] = (sum[i*2+1] + sum[i*2+2]) % MOD;
-        sqr[i] = (sqr[i*2+1] + sqr[i*2+2]) % MOD;
-    }    
+    }
+
+    long long _query(int index) {
+        index += 1;
+        long long rawIndex = index + 1;
+        if (index > size) {
+            index = size;
+        }
+        long long res = 0;
+        while (index > 0) {
+            res += rawIndex * _tree1[index] - _tree2[index];
+            index -= _lowbit(index);
+        }
+        return res;
+    }
 };
 
 class Solution {
 public:
-    int sumCounts(vector<int>& nums) {
-        int n = nums.size();
-        vector<int> last_pos(100001, -1);
-        
-        SegmentTree tree(n);
-        int ans = 0;
-        
-        for (int j = 0; j < n; j ++) {            
-            int st = last_pos[nums[j]] + 1, ed = j;
-            tree.AddOne(st, ed);
-            
-            ans = (ans + tree.sqr[0]) % MOD;
-            
-            last_pos[nums[j]] = j;
+    int sumCounts(vector<int>& A) {
+        int n = A.size();
+        long long res = 0, cur = 0;
+        BIT bit(n + 10);
+        unordered_map<int, int> seen;
+        long long mod = 1e9 + 7;
+        for (int i = 0; i < n; i++) {
+            int a = A[i];
+            int j = (seen.count(a) ? seen[a] : -1) + 1;
+            long long q = bit.query(j, i);
+            cur = (cur + q * 2 + i - j + 1) % mod;
+            res = (res + cur) % mod;
+            bit.add(j, i, 1);
+            seen[a] = i;
         }
-        return ans;
+        return res;
     }
 };
