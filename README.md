@@ -217,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [2917-find-the-k-or-of-an-array](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/2917-find-the-k-or-of-an-array) |
 | [2918-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/2918-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
+| [2920-maximum-points-after-collecting-coins-from-all-nodes](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/2920-maximum-points-after-collecting-coins-from-all-nodes) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -952,6 +953,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2791-count-paths-that-can-form-a-palindrome-in-a-tree](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/2791-count-paths-that-can-form-a-palindrome-in-a-tree) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2917-find-the-k-or-of-an-array](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/2917-find-the-k-or-of-an-array) |
+| [2920-maximum-points-after-collecting-coins-from-all-nodes](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/2920-maximum-points-after-collecting-coins-from-all-nodes) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3514-number-of-unique-xor-triplets-ii) |
@@ -1060,6 +1062,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2901-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/2901-longest-unequal-adjacent-groups-subsequence-ii) |
 | [2902-count-of-sub-multisets-with-bounded-sum](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/2902-count-of-sub-multisets-with-bounded-sum) |
 | [2915-length-of-the-longest-subsequence-that-sums-to-target](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/2915-length-of-the-longest-subsequence-that-sums-to-target) |
+| [2920-maximum-points-after-collecting-coins-from-all-nodes](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/2920-maximum-points-after-collecting-coins-from-all-nodes) |
 | [3225-maximum-score-from-grid-operations](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3225-maximum-score-from-grid-operations) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -1150,6 +1153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0140-word-break-ii) |
 | [0509-fibonacci-number](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0509-fibonacci-number) |
+| [2920-maximum-points-after-collecting-coins-from-all-nodes](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/2920-maximum-points-after-collecting-coins-from-all-nodes) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -1491,6 +1495,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/2685-count-the-number-of-complete-components) |
 | [2791-count-paths-that-can-form-a-palindrome-in-a-tree](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/2791-count-paths-that-can-form-a-palindrome-in-a-tree) |
+| [2920-maximum-points-after-collecting-coins-from-all-nodes](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/2920-maximum-points-after-collecting-coins-from-all-nodes) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 ## Trie
@@ -1708,6 +1713,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2196-create-binary-tree-from-descriptions](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2791-count-paths-that-can-form-a-palindrome-in-a-tree](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/2791-count-paths-that-can-form-a-palindrome-in-a-tree) |
+| [2920-maximum-points-after-collecting-coins-from-all-nodes](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/2920-maximum-points-after-collecting-coins-from-all-nodes) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 ## Binary Tree
@@ -1855,4 +1861,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2902-count-of-sub-multisets-with-bounded-sum](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/2902-count-of-sub-multisets-with-bounded-sum) |
+## DP on Trees
+|  |
+| ------- |
+| [2920-maximum-points-after-collecting-coins-from-all-nodes](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/2920-maximum-points-after-collecting-coins-from-all-nodes) |
 <!---LeetCode Topics End-->
