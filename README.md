@@ -1279,6 +1279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0595-big-countries](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0595-big-countries) |
 | [1193-monthly-transactions-i](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/1193-monthly-transactions-i) |
 | [3475-dna-pattern-recognition](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3475-dna-pattern-recognition) |
+| [3554-find-category-recommendation-pairs](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3554-find-category-recommendation-pairs) |
 ## Recursion
 |  |
 | ------- |
