@@ -250,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3552-grid-teleportation-traversal](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3552-grid-teleportation-traversal) |
+| [3553-minimum-weighted-subgraph-with-the-required-paths-ii](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3553-minimum-weighted-subgraph-with-the-required-paths-ii) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3620-network-recovery-pathways](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3620-network-recovery-pathways) |
@@ -963,6 +964,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3513-number-of-unique-xor-triplets-i](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3534-path-existence-queries-in-a-graph-ii) |
+| [3553-minimum-weighted-subgraph-with-the-required-paths-ii](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3553-minimum-weighted-subgraph-with-the-required-paths-ii) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
@@ -1075,6 +1077,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [3524-find-x-value-of-array-i](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3524-find-x-value-of-array-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3534-path-existence-queries-in-a-graph-ii) |
+| [3553-minimum-weighted-subgraph-with-the-required-paths-ii](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3553-minimum-weighted-subgraph-with-the-required-paths-ii) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3620-network-recovery-pathways](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3620-network-recovery-pathways) |
 | [3660-jump-game-ix](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3660-jump-game-ix) |
@@ -1503,6 +1506,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2685-count-the-number-of-complete-components](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/2685-count-the-number-of-complete-components) |
 | [2791-count-paths-that-can-form-a-palindrome-in-a-tree](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/2791-count-paths-that-can-form-a-palindrome-in-a-tree) |
 | [2920-maximum-points-after-collecting-coins-from-all-nodes](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/2920-maximum-points-after-collecting-coins-from-all-nodes) |
+| [3553-minimum-weighted-subgraph-with-the-required-paths-ii](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3553-minimum-weighted-subgraph-with-the-required-paths-ii) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 ## Trie
@@ -1721,6 +1725,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2791-count-paths-that-can-form-a-palindrome-in-a-tree](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/2791-count-paths-that-can-form-a-palindrome-in-a-tree) |
 | [2920-maximum-points-after-collecting-coins-from-all-nodes](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/2920-maximum-points-after-collecting-coins-from-all-nodes) |
+| [3553-minimum-weighted-subgraph-with-the-required-paths-ii](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3553-minimum-weighted-subgraph-with-the-required-paths-ii) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 ## Binary Tree
