@@ -148,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1552-magnetic-force-between-two-balls](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/1552-magnetic-force-between-two-balls) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1630-arithmetic-subarrays](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/1630-arithmetic-subarrays) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1637-widest-vertical-area-between-two-points-containing-no-points](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/1637-widest-vertical-area-between-two-points-containing-no-points) |
@@ -657,6 +658,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1401-circle-and-rectangle-overlapping](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1406-stone-game-iii](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/1510-stone-game-iv) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1686-stone-game-vi](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/1686-stone-game-vi) |
 | [1872-stone-game-viii](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/1872-stone-game-viii) |
@@ -768,6 +770,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0062-unique-paths](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0062-unique-paths) |
 | [1201-ugly-number-iii](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/1201-ugly-number-iii) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3312-sorted-gcd-pair-queries](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3312-sorted-gcd-pair-queries) |
@@ -849,6 +852,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0324-wiggle-sort-ii](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0324-wiggle-sort-ii) |
 | [0912-sort-an-array](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0912-sort-an-array) |
 | [0932-beautiful-array](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0932-beautiful-array) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [3655-xor-after-range-multiplication-queries-ii](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3655-xor-after-range-multiplication-queries-ii) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3739-count-subarrays-with-majority-element-ii) |
@@ -1060,6 +1064,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/1406-stone-game-iii) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1510-stone-game-iv](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/1510-stone-game-iv) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1871-jump-game-vii](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/1871-jump-game-vii) |
 | [1872-stone-game-viii](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/1872-stone-game-viii) |
@@ -1165,6 +1170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0140-word-break-ii) |
 | [0509-fibonacci-number](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0509-fibonacci-number) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2920-maximum-points-after-collecting-coins-from-all-nodes](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/2920-maximum-points-after-collecting-coins-from-all-nodes) |
 ## Breadth-First Search
 |  |
@@ -1206,6 +1212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0200-number-of-islands) |
 | [1202-smallest-string-with-swaps](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/1202-smallest-string-with-swaps) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1998-gcd-sort-of-an-array](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/1998-gcd-sort-of-an-array) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2573-find-the-string-with-lcp](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/2573-find-the-string-with-lcp) |
@@ -1726,6 +1733,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0222-count-complete-tree-nodes](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0222-count-complete-tree-nodes) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0257-binary-tree-paths](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0257-binary-tree-paths) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2791-count-paths-that-can-form-a-palindrome-in-a-tree](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/2791-count-paths-that-can-form-a-palindrome-in-a-tree) |
@@ -1765,6 +1773,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0222-count-complete-tree-nodes](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0222-count-complete-tree-nodes) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0257-binary-tree-paths](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0257-binary-tree-paths) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Binary Search Tree
@@ -1778,6 +1787,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0173-binary-search-tree-iterator](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0173-binary-search-tree-iterator) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Z Algorithm
 |  |
 | ------- |
@@ -1882,4 +1892,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2920-maximum-points-after-collecting-coins-from-all-nodes](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/2920-maximum-points-after-collecting-coins-from-all-nodes) |
+## Fermat's Little Theorem
+|  |
+| ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 <!---LeetCode Topics End-->
