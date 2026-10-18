@@ -480,6 +480,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1573-number-of-ways-to-split-a-string](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/1573-number-of-ways-to-split-a-string) |
+| [1576-replace-all-s-to-avoid-consecutive-repeating-characters](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/1576-replace-all-s-to-avoid-consecutive-repeating-characters) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1859-sorting-the-sentence](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/1859-sorting-the-sentence) |
