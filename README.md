@@ -477,6 +477,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1202-smallest-string-with-swaps](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/1202-smallest-string-with-swaps) |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
+| [1573-number-of-ways-to-split-a-string](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/1573-number-of-ways-to-split-a-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1859-sorting-the-sentence](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/1859-sorting-the-sentence) |
@@ -660,6 +661,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/1510-stone-game-iv) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+| [1573-number-of-ways-to-split-a-string](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/1573-number-of-ways-to-split-a-string) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1686-stone-game-vi](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/1686-stone-game-vi) |
 | [1872-stone-game-viii](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/1872-stone-game-viii) |
