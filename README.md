@@ -150,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1552-magnetic-force-between-two-balls](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/1552-magnetic-force-between-two-balls) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1572-matrix-diagonal-sum](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/1572-matrix-diagonal-sum) |
+| [1574-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/1574-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1630-arithmetic-subarrays](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/1630-arithmetic-subarrays) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1637-widest-vertical-area-between-two-points-containing-no-points](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/1637-widest-vertical-area-between-two-points-containing-no-points) |
@@ -750,6 +751,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1552-magnetic-force-between-two-balls](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/1552-magnetic-force-between-two-balls) |
+| [1574-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/1574-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -923,6 +925,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0680-valid-palindrome-ii](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0680-valid-palindrome-ii) |
 | [0832-flipping-an-image](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0832-flipping-an-image) |
 | [0969-pancake-sorting](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0969-pancake-sorting) |
+| [1574-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/1574-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1861-rotating-the-box](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/1861-rotating-the-box) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/1877-minimize-maximum-pair-sum-in-array) |
@@ -1355,6 +1358,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1096-brace-expansion-ii](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/1096-brace-expansion-ii) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
+| [1574-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/1574-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2751-robot-collisions](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/2751-robot-collisions) |
@@ -1367,6 +1371,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0316-remove-duplicate-letters](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0316-remove-duplicate-letters) |
 | [0321-create-maximum-number](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0321-create-maximum-number) |
 | [0496-next-greater-element-i](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0496-next-greater-element-i) |
+| [1574-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/1574-shortest-subarray-to-be-removed-to-make-array-sorted) |
 ## Linked List
 |  |
 | ------- |
