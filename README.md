@@ -578,6 +578,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2092-find-all-people-with-secret](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/2092-find-all-people-with-secret) |
 | [2094-finding-3-digit-even-numbers](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/2094-finding-3-digit-even-numbers) |
 | [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/2099-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2126-destroying-asteroids](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/2126-destroying-asteroids) |
@@ -1168,6 +1169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0210-course-schedule-ii) |
 | [1192-critical-connections-in-a-network](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/1192-critical-connections-in-a-network) |
+| [2092-find-all-people-with-secret](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/2092-find-all-people-with-secret) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/2685-count-the-number-of-complete-components) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3286-find-a-safe-walk-through-a-grid) |
@@ -1210,6 +1212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1202-smallest-string-with-swaps](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/1202-smallest-string-with-swaps) |
 | [1306-jump-game-iii](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/1306-jump-game-iii) |
 | [1345-jump-game-iv](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/1345-jump-game-iv) |
+| [2092-find-all-people-with-secret](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/2092-find-all-people-with-secret) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/2685-count-the-number-of-complete-components) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -1226,6 +1229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1202-smallest-string-with-swaps](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/1202-smallest-string-with-swaps) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1998-gcd-sort-of-an-array](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/1998-gcd-sort-of-an-array) |
+| [2092-find-all-people-with-secret](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/2092-find-all-people-with-secret) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2573-find-the-string-with-lcp](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/2573-find-the-string-with-lcp) |
 | [2685-count-the-number-of-complete-components](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/2685-count-the-number-of-complete-components) |
@@ -1528,6 +1532,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1192-critical-connections-in-a-network](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/1192-critical-connections-in-a-network) |
 | [1202-smallest-string-with-swaps](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/1202-smallest-string-with-swaps) |
 | [1306-jump-game-iii](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/1306-jump-game-iii) |
+| [2092-find-all-people-with-secret](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/2092-find-all-people-with-secret) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/2685-count-the-number-of-complete-components) |
