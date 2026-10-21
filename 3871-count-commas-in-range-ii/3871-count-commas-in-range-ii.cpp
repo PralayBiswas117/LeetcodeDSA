@@ -1,10 +1,11 @@
 class Solution {
 public:
-    int64_t countCommas(auto& n) {
-        int64_t count = 0;
-        for (int64_t p = 1000; p <= n; p *= 1000)
-            count += n - p + 1;
-
-        return count;
+    long long countCommas(long long n) {
+        long long p = 1000, res = 0;
+        while (p <= n) {
+            res += n - p + 1;
+            p *= 1000;
+        }
+        return res;
     }
 };
