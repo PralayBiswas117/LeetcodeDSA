@@ -521,6 +521,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 | [3838-weighted-word-mapping](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3838-weighted-word-mapping) |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3863-minimum-operations-to-sort-a-string) |
+| [3864-minimum-cost-to-partition-a-binary-string](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3864-minimum-cost-to-partition-a-binary-string) |
 ## Sorting
 |  |
 | ------- |
@@ -831,6 +832,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3737-count-subarrays-with-majority-element-i](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3739-count-subarrays-with-majority-element-ii) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
+| [3864-minimum-cost-to-partition-a-binary-string](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3864-minimum-cost-to-partition-a-binary-string) |
 | [3903-smallest-stable-index-i](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3904-smallest-stable-index-ii) |
 ## Sliding Window
@@ -875,6 +877,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3655-xor-after-range-multiplication-queries-ii](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3655-xor-after-range-multiplication-queries-ii) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3739-count-subarrays-with-majority-element-ii) |
+| [3864-minimum-cost-to-partition-a-binary-string](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3864-minimum-cost-to-partition-a-binary-string) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
