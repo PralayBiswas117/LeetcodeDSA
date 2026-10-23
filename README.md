@@ -267,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3645-maximum-total-from-optimal-activation-order](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3645-maximum-total-from-optimal-activation-order) |
+| [3651-minimum-cost-path-with-teleportations](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3651-minimum-cost-path-with-teleportations) |
 | [3655-xor-after-range-multiplication-queries-ii](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3655-xor-after-range-multiplication-queries-ii) |
 | [3660-jump-game-ix](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3660-jump-game-ix) |
 | [3691-maximum-total-subarray-value-ii](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3691-maximum-total-subarray-value-ii) |
@@ -1124,6 +1125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3557-find-maximum-number-of-non-intersecting-substrings](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3557-find-maximum-number-of-non-intersecting-substrings) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3620-network-recovery-pathways](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3620-network-recovery-pathways) |
+| [3651-minimum-cost-path-with-teleportations](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3651-minimum-cost-path-with-teleportations) |
 | [3660-jump-game-ix](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3660-jump-game-ix) |
 | [3725-count-ways-to-choose-coprime-integers-from-rows](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3725-count-ways-to-choose-coprime-integers-from-rows) |
 | [3742-maximum-path-score-in-a-grid](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3742-maximum-path-score-in-a-grid) |
@@ -1304,6 +1306,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3548-equal-sum-grid-partition-ii](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3548-equal-sum-grid-partition-ii) |
 | [3552-grid-teleportation-traversal](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3552-grid-teleportation-traversal) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3568-minimum-moves-to-clean-the-classroom) |
+| [3651-minimum-cost-path-with-teleportations](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3651-minimum-cost-path-with-teleportations) |
 | [3725-count-ways-to-choose-coprime-integers-from-rows](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3725-count-ways-to-choose-coprime-integers-from-rows) |
 | [3742-maximum-path-score-in-a-grid](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3742-maximum-path-score-in-a-grid) |
 ## Shortest Path
