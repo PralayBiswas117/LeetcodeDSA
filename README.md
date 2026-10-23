@@ -265,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3655-xor-after-range-multiplication-queries-ii](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3655-xor-after-range-multiplication-queries-ii) |
 | [3660-jump-game-ix](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3660-jump-game-ix) |
 | [3691-maximum-total-subarray-value-ii](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3691-maximum-total-subarray-value-ii) |
@@ -1001,6 +1002,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3553-minimum-weighted-subgraph-with-the-required-paths-ii](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3553-minimum-weighted-subgraph-with-the-required-paths-ii) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3568-minimum-moves-to-clean-the-classroom) |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Simulation
 |  |
