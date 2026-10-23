@@ -1007,6 +1007,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3644-maximum-k-to-sort-a-permutation) |
+| [3646-next-special-palindrome-number](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3646-next-special-palindrome-number) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Simulation
 |  |
@@ -1469,6 +1470,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0679-24-game](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0679-24-game) |
 | [1096-brace-expansion-ii](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/1096-brace-expansion-ii) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3348-smallest-divisible-digit-product-ii) |
+| [3646-next-special-palindrome-number](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3646-next-special-palindrome-number) |
 ## Merge Sort
 |  |
 | ------- |
