@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0220-contains-duplicate-iii](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0220-contains-duplicate-iii) |
 | [0221-maximal-square](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0221-maximal-square) |
 | [0238-product-of-array-except-self](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0238-product-of-array-except-self) |
+| [0239-sliding-window-maximum](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0239-sliding-window-maximum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0287-find-the-duplicate-number) |
@@ -857,6 +858,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0219-contains-duplicate-ii) |
 | [0220-contains-duplicate-iii](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0220-contains-duplicate-iii) |
+| [0239-sliding-window-maximum](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0239-sliding-window-maximum) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1871-jump-game-vii](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/1871-jump-game-vii) |
@@ -897,6 +899,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0023-merge-k-sorted-lists](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0218-the-skyline-problem](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0218-the-skyline-problem) |
+| [0239-sliding-window-maximum](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0239-sliding-window-maximum) |
 | [0264-ugly-number-ii](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0264-ugly-number-ii) |
 | [0912-sort-an-array](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0912-sort-an-array) |
 | [1383-maximum-performance-of-a-team](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/1383-maximum-performance-of-a-team) |
@@ -1733,6 +1736,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0232-implement-queue-using-stacks) |
+| [0239-sliding-window-maximum](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0239-sliding-window-maximum) |
 | [0933-number-of-recent-calls](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0933-number-of-recent-calls) |
 ## Data Stream
 |  |
@@ -1876,6 +1880,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0084-largest-rectangle-in-histogram) |
+| [0239-sliding-window-maximum](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0239-sliding-window-maximum) |
 ## Bidirectional Search
 |  |
 | ------- |
@@ -1971,4 +1976,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2097-valid-arrangement-of-pairs](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/2097-valid-arrangement-of-pairs) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->
