@@ -457,6 +457,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0211-design-add-and-search-words-data-structure](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0212-word-search-ii](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0212-word-search-ii) |
 | [0214-shortest-palindrome](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0214-shortest-palindrome) |
+| [0241-different-ways-to-add-parentheses](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0241-different-ways-to-add-parentheses) |
 | [0242-valid-anagram](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0242-valid-anagram) |
 | [0257-binary-tree-paths](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0257-binary-tree-paths) |
 | [0290-word-pattern](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0290-word-pattern) |
@@ -651,6 +652,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0223-rectangle-area](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0223-rectangle-area) |
 | [0231-power-of-two](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0231-power-of-two) |
 | [0233-number-of-digit-one](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0233-number-of-digit-one) |
+| [0241-different-ways-to-add-parentheses](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0241-different-ways-to-add-parentheses) |
 | [0258-add-digits](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0263-ugly-number) |
 | [0264-ugly-number-ii](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0264-ugly-number-ii) |
@@ -1082,6 +1084,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0213-house-robber-ii](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0213-house-robber-ii) |
 | [0221-maximal-square](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0221-maximal-square) |
 | [0233-number-of-digit-one](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0233-number-of-digit-one) |
+| [0241-different-ways-to-add-parentheses](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0241-different-ways-to-add-parentheses) |
 | [0264-ugly-number-ii](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0264-ugly-number-ii) |
 | [0392-is-subsequence](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0392-is-subsequence) |
 | [0396-rotate-function](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0396-rotate-function) |
@@ -1212,6 +1215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0070-climbing-stairs) |
 | [0139-word-break](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0140-word-break-ii) |
+| [0241-different-ways-to-add-parentheses](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0241-different-ways-to-add-parentheses) |
 | [0509-fibonacci-number](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0509-fibonacci-number) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1575-count-all-possible-routes](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/1575-count-all-possible-routes) |
@@ -1356,6 +1360,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0231-power-of-two) |
 | [0233-number-of-digit-one](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0233-number-of-digit-one) |
 | [0234-palindrome-linked-list](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0234-palindrome-linked-list) |
+| [0241-different-ways-to-add-parentheses](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0241-different-ways-to-add-parentheses) |
 | [0326-power-of-three](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0342-power-of-four) |
 | [0486-predict-the-winner](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0486-predict-the-winner) |
@@ -1859,6 +1864,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0032-longest-valid-parentheses) |
+| [0241-different-ways-to-add-parentheses](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0241-different-ways-to-add-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
