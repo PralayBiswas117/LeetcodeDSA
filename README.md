@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0220-contains-duplicate-iii](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0220-contains-duplicate-iii) |
 | [0221-maximal-square](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0221-maximal-square) |
 | [0228-summary-ranges](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0228-summary-ranges) |
+| [0229-majority-element-ii](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0239-sliding-window-maximum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0240-search-a-2d-matrix-ii) |
@@ -334,6 +335,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0208-implement-trie-prefix-tree](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0208-implement-trie-prefix-tree) |
 | [0217-contains-duplicate](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0219-contains-duplicate-ii) |
+| [0229-majority-element-ii](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0242-valid-anagram) |
 | [0264-ugly-number-ii](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0264-ugly-number-ii) |
 | [0268-missing-number](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0268-missing-number) |
@@ -551,6 +553,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0217-contains-duplicate) |
 | [0218-the-skyline-problem](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0218-the-skyline-problem) |
 | [0220-contains-duplicate-iii](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0220-contains-duplicate-iii) |
+| [0229-majority-element-ii](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0268-missing-number) |
 | [0324-wiggle-sort-ii](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0324-wiggle-sort-ii) |
@@ -810,6 +813,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0229-majority-element-ii) |
 | [1189-maximum-number-of-balloons](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/1189-maximum-number-of-balloons) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [2029-stone-game-ix](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/2029-stone-game-ix) |
@@ -1998,4 +2002,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0229-majority-element-ii](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0229-majority-element-ii) |
 <!---LeetCode Topics End-->
