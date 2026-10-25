@@ -138,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1191-k-concatenation-maximum-sum](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/1191-k-concatenation-maximum-sum) |
 | [1200-minimum-absolute-difference](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/1200-minimum-absolute-difference) |
 | [1202-smallest-string-with-swaps](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/1202-smallest-string-with-swaps) |
+| [1254-number-of-closed-islands](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/1254-number-of-closed-islands) |
 | [1260-shift-2d-grid](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/1260-shift-2d-grid) |
 | [1306-jump-game-iii](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/1306-jump-game-iii) |
 | [1331-rank-transform-of-an-array](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/1331-rank-transform-of-an-array) |
@@ -1252,6 +1253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0733-flood-fill) |
 | [1096-brace-expansion-ii](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/1096-brace-expansion-ii) |
 | [1202-smallest-string-with-swaps](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/1202-smallest-string-with-swaps) |
+| [1254-number-of-closed-islands](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/1254-number-of-closed-islands) |
 | [1306-jump-game-iii](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/1306-jump-game-iii) |
 | [1345-jump-game-iv](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/1345-jump-game-iv) |
 | [2092-find-all-people-with-secret](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/2092-find-all-people-with-secret) |
@@ -1269,6 +1271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0200-number-of-islands) |
 | [1202-smallest-string-with-swaps](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/1202-smallest-string-with-swaps) |
+| [1254-number-of-closed-islands](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/1254-number-of-closed-islands) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1998-gcd-sort-of-an-array](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/1998-gcd-sort-of-an-array) |
 | [2092-find-all-people-with-secret](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/2092-find-all-people-with-secret) |
@@ -1302,6 +1305,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0733-flood-fill) |
 | [0832-flipping-an-image](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0832-flipping-an-image) |
 | [0835-image-overlap](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0835-image-overlap) |
+| [1254-number-of-closed-islands](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/1254-number-of-closed-islands) |
 | [1260-shift-2d-grid](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/1260-shift-2d-grid) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/1572-matrix-diagonal-sum) |
@@ -1580,6 +1584,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0733-flood-fill) |
 | [1192-critical-connections-in-a-network](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/1192-critical-connections-in-a-network) |
 | [1202-smallest-string-with-swaps](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/1202-smallest-string-with-swaps) |
+| [1254-number-of-closed-islands](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/1254-number-of-closed-islands) |
 | [1306-jump-game-iii](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/1306-jump-game-iii) |
 | [2092-find-all-people-with-secret](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/2092-find-all-people-with-secret) |
 | [2097-valid-arrangement-of-pairs](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/2097-valid-arrangement-of-pairs) |
