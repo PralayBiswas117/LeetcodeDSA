@@ -266,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3553-minimum-weighted-subgraph-with-the-required-paths-ii](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3553-minimum-weighted-subgraph-with-the-required-paths-ii) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3568-minimum-moves-to-clean-the-classroom) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3620-network-recovery-pathways](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3620-network-recovery-pathways) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
@@ -1265,6 +1266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3552-grid-teleportation-traversal](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3552-grid-teleportation-traversal) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3568-minimum-moves-to-clean-the-classroom) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 ## Union-Find
 |  |
@@ -1283,6 +1285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2812-find-the-safest-path-in-a-grid](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3532-path-existence-queries-in-a-graph-i) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Matrix
 |  |
 | ------- |
@@ -1326,6 +1329,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3548-equal-sum-grid-partition-ii](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3548-equal-sum-grid-partition-ii) |
 | [3552-grid-teleportation-traversal](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3552-grid-teleportation-traversal) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3568-minimum-moves-to-clean-the-classroom) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3651-minimum-cost-path-with-teleportations](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3651-minimum-cost-path-with-teleportations) |
 | [3725-count-ways-to-choose-coprime-integers-from-rows](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3725-count-ways-to-choose-coprime-integers-from-rows) |
 | [3742-maximum-path-score-in-a-grid](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3742-maximum-path-score-in-a-grid) |
@@ -1599,6 +1603,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3553-minimum-weighted-subgraph-with-the-required-paths-ii](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3553-minimum-weighted-subgraph-with-the-required-paths-ii) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Trie
 |  |
 | ------- |
