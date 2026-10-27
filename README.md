@@ -1129,6 +1129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1871-jump-game-vii](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/1871-jump-game-vii) |
 | [1872-stone-game-viii](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/1872-stone-game-viii) |
+| [1931-painting-a-grid-with-three-different-colors](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/1931-painting-a-grid-with-three-different-colors) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2463-minimum-total-distance-traveled](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/2463-minimum-total-distance-traveled) |
 | [2573-find-the-string-with-lcp](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/2573-find-the-string-with-lcp) |
@@ -2029,4 +2030,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0229-majority-element-ii) |
+## Graph Coloring
+|  |
+| ------- |
+| [1931-painting-a-grid-with-three-different-colors](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/1931-painting-a-grid-with-three-different-colors) |
 <!---LeetCode Topics End-->
