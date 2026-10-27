@@ -180,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [1914-cyclically-rotating-a-grid](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/1914-cyclically-rotating-a-grid) |
+| [1932-merge-bsts-to-create-single-bst](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/1932-merge-bsts-to-create-single-bst) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
@@ -373,6 +374,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/1930-unique-length-3-palindromic-subsequences) |
+| [1932-merge-bsts-to-create-single-bst](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/1932-merge-bsts-to-create-single-bst) |
 | [2094-finding-3-digit-even-numbers](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/2094-finding-3-digit-even-numbers) |
 | [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/2099-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/2154-keep-multiplying-found-values-by-two) |
@@ -1601,6 +1603,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1202-smallest-string-with-swaps](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/1202-smallest-string-with-swaps) |
 | [1254-number-of-closed-islands](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/1254-number-of-closed-islands) |
 | [1306-jump-game-iii](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/1306-jump-game-iii) |
+| [1932-merge-bsts-to-create-single-bst](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/1932-merge-bsts-to-create-single-bst) |
 | [2092-find-all-people-with-secret](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/2092-find-all-people-with-secret) |
 | [2097-valid-arrangement-of-pairs](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/2097-valid-arrangement-of-pairs) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
@@ -1833,6 +1836,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0257-binary-tree-paths) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+| [1932-merge-bsts-to-create-single-bst](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/1932-merge-bsts-to-create-single-bst) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2791-count-paths-that-can-form-a-palindrome-in-a-tree](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/2791-count-paths-that-can-form-a-palindrome-in-a-tree) |
@@ -1875,6 +1879,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0257-binary-tree-paths) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+| [1932-merge-bsts-to-create-single-bst](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/1932-merge-bsts-to-create-single-bst) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Binary Search Tree
@@ -1890,6 +1895,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0230-kth-smallest-element-in-a-bst](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+| [1932-merge-bsts-to-create-single-bst](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/1932-merge-bsts-to-create-single-bst) |
 ## Z Algorithm
 |  |
 | ------- |
