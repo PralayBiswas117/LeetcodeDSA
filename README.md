@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0380-insert-delete-getrandom-o1](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0380-insert-delete-getrandom-o1) |
+| [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [0384-shuffle-an-array](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0384-shuffle-an-array) |
 | [0396-rotate-function](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0396-rotate-function) |
 | [0414-third-maximum-number](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0414-third-maximum-number) |
@@ -350,6 +351,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0380-insert-delete-getrandom-o1](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0380-insert-delete-getrandom-o1) |
+| [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [0389-find-the-difference](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0389-find-the-difference) |
 | [0409-longest-palindrome](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0409-longest-palindrome) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -677,6 +679,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0342-power-of-four) |
 | [0380-insert-delete-getrandom-o1](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0380-insert-delete-getrandom-o1) |
+| [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [0384-shuffle-an-array](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0384-shuffle-an-array) |
 | [0396-rotate-function](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0396-rotate-function) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0405-convert-a-number-to-hexadecimal) |
@@ -1746,6 +1749,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0303-range-sum-query-immutable](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0303-range-sum-query-immutable) |
 | [0304-range-sum-query-2d-immutable](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0304-range-sum-query-2d-immutable) |
 | [0380-insert-delete-getrandom-o1](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0380-insert-delete-getrandom-o1) |
+| [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [0384-shuffle-an-array](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0384-shuffle-an-array) |
 | [0933-number-of-recent-calls](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0933-number-of-recent-calls) |
 | [2069-walking-robot-simulation-ii](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/2069-walking-robot-simulation-ii) |
@@ -1753,6 +1757,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0380-insert-delete-getrandom-o1](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0380-insert-delete-getrandom-o1) |
+| [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [0384-shuffle-an-array](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0384-shuffle-an-array) |
 ## Knapsack Problem
 |  |
