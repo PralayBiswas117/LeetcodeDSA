@@ -680,6 +680,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0342-power-of-four) |
 | [0380-insert-delete-getrandom-o1](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0380-insert-delete-getrandom-o1) |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
+| [0382-linked-list-random-node](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0382-linked-list-random-node) |
 | [0384-shuffle-an-array](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0384-shuffle-an-array) |
 | [0396-rotate-function](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0396-rotate-function) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0405-convert-a-number-to-hexadecimal) |
@@ -1486,6 +1487,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0203-remove-linked-list-elements](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0234-palindrome-linked-list) |
+| [0382-linked-list-random-node](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0382-linked-list-random-node) |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
@@ -1758,6 +1760,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0380-insert-delete-getrandom-o1](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0380-insert-delete-getrandom-o1) |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
+| [0382-linked-list-random-node](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0382-linked-list-random-node) |
 | [0384-shuffle-an-array](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0384-shuffle-an-array) |
 ## Knapsack Problem
 |  |
@@ -2054,4 +2057,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1931-painting-a-grid-with-three-different-colors](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/1931-painting-a-grid-with-three-different-colors) |
+## Reservoir Sampling
+|  |
+| ------- |
+| [0382-linked-list-random-node](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0382-linked-list-random-node) |
 <!---LeetCode Topics End-->
