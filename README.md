@@ -705,6 +705,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0877-stone-game) |
 | [0932-beautiful-array](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0932-beautiful-array) |
 | [0963-minimum-area-rectangle-ii](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0963-minimum-area-rectangle-ii) |
+| [0964-least-operators-to-express-number](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0964-least-operators-to-express-number) |
 | [1025-divisor-game](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/1025-divisor-game) |
 | [1140-stone-game-ii](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/1140-stone-game-ii) |
 | [1201-ugly-number-iii](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/1201-ugly-number-iii) |
@@ -1141,6 +1142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0877-stone-game) |
 | [0940-distinct-subsequences-ii](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0940-distinct-subsequences-ii) |
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0960-delete-columns-to-make-sorted-iii) |
+| [0964-least-operators-to-express-number](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0964-least-operators-to-express-number) |
 | [1025-divisor-game](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/1025-divisor-game) |
 | [1140-stone-game-ii](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/1140-stone-game-ii) |
 | [1191-k-concatenation-maximum-sum](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/1191-k-concatenation-maximum-sum) |
@@ -1263,6 +1265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0140-word-break-ii](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0140-word-break-ii) |
 | [0241-different-ways-to-add-parentheses](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0241-different-ways-to-add-parentheses) |
 | [0509-fibonacci-number](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0509-fibonacci-number) |
+| [0964-least-operators-to-express-number](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0964-least-operators-to-express-number) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1575-count-all-possible-routes](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/1575-count-all-possible-routes) |
 | [2920-maximum-points-after-collecting-coins-from-all-nodes](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/2920-maximum-points-after-collecting-coins-from-all-nodes) |
