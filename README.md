@@ -139,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0932-beautiful-array](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0932-beautiful-array) |
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0960-delete-columns-to-make-sorted-iii) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0961-n-repeated-element-in-size-2n-array) |
+| [0962-maximum-width-ramp](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0962-maximum-width-ramp) |
 | [0969-pancake-sorting](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0969-pancake-sorting) |
 | [1140-stone-game-ii](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/1140-stone-game-ii) |
 | [1191-k-concatenation-maximum-sum](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/1191-k-concatenation-maximum-sum) |
@@ -988,6 +989,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0455-assign-cookies) |
 | [0680-valid-palindrome-ii](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0680-valid-palindrome-ii) |
 | [0832-flipping-an-image](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0832-flipping-an-image) |
+| [0962-maximum-width-ramp](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0962-maximum-width-ramp) |
 | [0969-pancake-sorting](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0969-pancake-sorting) |
 | [1574-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/1574-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/1855-maximum-distance-between-a-pair-of-values) |
@@ -1451,6 +1453,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0682-baseball-game) |
 | [0856-score-of-parentheses](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [0962-maximum-width-ramp](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0962-maximum-width-ramp) |
 | [1096-brace-expansion-ii](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/1096-brace-expansion-ii) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
@@ -1467,6 +1470,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0316-remove-duplicate-letters](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0316-remove-duplicate-letters) |
 | [0321-create-maximum-number](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0321-create-maximum-number) |
 | [0496-next-greater-element-i](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0496-next-greater-element-i) |
+| [0962-maximum-width-ramp](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0962-maximum-width-ramp) |
 | [1574-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/1574-shortest-subarray-to-be-removed-to-make-array-sorted) |
 ## Linked List
 |  |
