@@ -140,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0960-delete-columns-to-make-sorted-iii) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0962-maximum-width-ramp](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0962-maximum-width-ramp) |
+| [0963-minimum-area-rectangle-ii](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0963-minimum-area-rectangle-ii) |
 | [0969-pancake-sorting](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0969-pancake-sorting) |
 | [1140-stone-game-ii](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/1140-stone-game-ii) |
 | [1191-k-concatenation-maximum-sum](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/1191-k-concatenation-maximum-sum) |
@@ -368,6 +369,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0874-walking-robot-simulation](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0874-walking-robot-simulation) |
 | [0888-fair-candy-swap](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0888-fair-candy-swap) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0961-n-repeated-element-in-size-2n-array) |
+| [0963-minimum-area-rectangle-ii](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0963-minimum-area-rectangle-ii) |
 | [1096-brace-expansion-ii](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/1096-brace-expansion-ii) |
 | [1189-maximum-number-of-balloons](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/1189-maximum-number-of-balloons) |
 | [1202-smallest-string-with-swaps](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/1202-smallest-string-with-swaps) |
@@ -702,6 +704,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0836-rectangle-overlap](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0877-stone-game) |
 | [0932-beautiful-array](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0932-beautiful-array) |
+| [0963-minimum-area-rectangle-ii](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0963-minimum-area-rectangle-ii) |
 | [1025-divisor-game](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/1025-divisor-game) |
 | [1140-stone-game-ii](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/1140-stone-game-ii) |
 | [1201-ugly-number-iii](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/1201-ugly-number-iii) |
@@ -1967,6 +1970,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0149-max-points-on-a-line](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0149-max-points-on-a-line) |
 | [0223-rectangle-area](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0223-rectangle-area) |
 | [0836-rectangle-overlap](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0836-rectangle-overlap) |
+| [0963-minimum-area-rectangle-ii](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0963-minimum-area-rectangle-ii) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/1401-circle-and-rectangle-overlapping) |
 ## Brute-Force Search
 |  |
