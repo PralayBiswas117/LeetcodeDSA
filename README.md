@@ -138,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0912-sort-an-array](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0912-sort-an-array) |
 | [0932-beautiful-array](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0932-beautiful-array) |
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0960-delete-columns-to-make-sorted-iii) |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0969-pancake-sorting](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0969-pancake-sorting) |
 | [1140-stone-game-ii](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/1140-stone-game-ii) |
 | [1191-k-concatenation-maximum-sum](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/1191-k-concatenation-maximum-sum) |
@@ -365,6 +366,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0697-degree-of-an-array](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0697-degree-of-an-array) |
 | [0874-walking-robot-simulation](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0874-walking-robot-simulation) |
 | [0888-fair-candy-swap](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0888-fair-candy-swap) |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1096-brace-expansion-ii](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/1096-brace-expansion-ii) |
 | [1189-maximum-number-of-balloons](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/1189-maximum-number-of-balloons) |
 | [1202-smallest-string-with-swaps](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/1202-smallest-string-with-swaps) |
@@ -1974,6 +1976,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0164-maximum-gap](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0164-maximum-gap) |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0961-n-repeated-element-in-size-2n-array) |
 ## Iterator
 |  |
 | ------- |
