@@ -483,6 +483,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0241-different-ways-to-add-parentheses](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0241-different-ways-to-add-parentheses) |
 | [0242-valid-anagram](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0242-valid-anagram) |
 | [0257-binary-tree-paths](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0257-binary-tree-paths) |
+| [0273-integer-to-english-words](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0273-integer-to-english-words) |
 | [0290-word-pattern](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0290-word-pattern) |
 | [0301-remove-invalid-parentheses](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0301-remove-invalid-parentheses) |
 | [0316-remove-duplicate-letters](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0316-remove-duplicate-letters) |
@@ -685,6 +686,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0263-ugly-number](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0263-ugly-number) |
 | [0264-ugly-number-ii](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0264-ugly-number-ii) |
 | [0268-missing-number](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0268-missing-number) |
+| [0273-integer-to-english-words](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0273-integer-to-english-words) |
 | [0292-nim-game](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0292-nim-game) |
 | [0326-power-of-three](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0342-power-of-four) |
@@ -1421,6 +1423,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0233-number-of-digit-one](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0233-number-of-digit-one) |
 | [0234-palindrome-linked-list](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0234-palindrome-linked-list) |
 | [0241-different-ways-to-add-parentheses](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0241-different-ways-to-add-parentheses) |
+| [0273-integer-to-english-words](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0273-integer-to-english-words) |
 | [0326-power-of-three](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0342-power-of-four) |
 | [0486-predict-the-winner](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0486-predict-the-winner) |
