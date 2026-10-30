@@ -484,6 +484,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0242-valid-anagram) |
 | [0257-binary-tree-paths](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0257-binary-tree-paths) |
 | [0273-integer-to-english-words](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0273-integer-to-english-words) |
+| [0282-expression-add-operators](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0282-expression-add-operators) |
 | [0290-word-pattern](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0290-word-pattern) |
 | [0301-remove-invalid-parentheses](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0301-remove-invalid-parentheses) |
 | [0316-remove-duplicate-letters](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0316-remove-duplicate-letters) |
@@ -687,6 +688,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0264-ugly-number-ii](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0264-ugly-number-ii) |
 | [0268-missing-number](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0268-missing-number) |
 | [0273-integer-to-english-words](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0273-integer-to-english-words) |
+| [0282-expression-add-operators](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0282-expression-add-operators) |
 | [0292-nim-game](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0292-nim-game) |
 | [0326-power-of-three](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0342-power-of-four) |
@@ -1543,6 +1545,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0212-word-search-ii](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0212-word-search-ii) |
 | [0216-combination-sum-iii](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0216-combination-sum-iii) |
 | [0257-binary-tree-paths](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0257-binary-tree-paths) |
+| [0282-expression-add-operators](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0282-expression-add-operators) |
 | [0301-remove-invalid-parentheses](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0301-remove-invalid-parentheses) |
 | [0679-24-game](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0679-24-game) |
 | [1096-brace-expansion-ii](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/1096-brace-expansion-ii) |
