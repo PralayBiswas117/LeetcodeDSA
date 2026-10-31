@@ -555,6 +555,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3557-find-maximum-number-of-non-intersecting-substrings](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3557-find-maximum-number-of-non-intersecting-substrings) |
 | [3612-process-string-with-special-operations-i](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3612-process-string-with-special-operations-i) |
 | [3614-process-string-with-special-operations-ii](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3614-process-string-with-special-operations-ii) |
+| [3666-minimum-operations-to-equalize-binary-string](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3666-minimum-operations-to-equalize-binary-string) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 | [3838-weighted-word-mapping](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3838-weighted-word-mapping) |
@@ -757,6 +758,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3658-gcd-of-odd-and-even-sums) |
+| [3666-minimum-operations-to-equalize-binary-string](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3666-minimum-operations-to-equalize-binary-string) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3725-count-ways-to-choose-coprime-integers-from-rows](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3725-count-ways-to-choose-coprime-integers-from-rows) |
 | [3726-remove-zeros-in-decimal-representation](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3726-remove-zeros-in-decimal-representation) |
@@ -1317,6 +1319,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
+| [3666-minimum-operations-to-equalize-binary-string](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3666-minimum-operations-to-equalize-binary-string) |
 ## Union-Find
 |  |
 | ------- |
@@ -1335,6 +1338,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
+| [3666-minimum-operations-to-equalize-binary-string](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3666-minimum-operations-to-equalize-binary-string) |
 ## Matrix
 |  |
 | ------- |
@@ -1775,6 +1779,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2213-longest-substring-of-one-repeating-character](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2251-number-of-flowers-in-full-bloom](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/2251-number-of-flowers-in-full-bloom) |
 | [3161-block-placement-queries](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3161-block-placement-queries) |
+| [3666-minimum-operations-to-equalize-binary-string](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3666-minimum-operations-to-equalize-binary-string) |
 ## Design
 |  |
 | ------- |
