@@ -285,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3651-minimum-cost-path-with-teleportations](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3651-minimum-cost-path-with-teleportations) |
 | [3655-xor-after-range-multiplication-queries-ii](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3655-xor-after-range-multiplication-queries-ii) |
 | [3660-jump-game-ix](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3660-jump-game-ix) |
+| [3663-find-the-least-frequent-digit](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3663-find-the-least-frequent-digit) |
 | [3664-two-letter-card-game](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3664-two-letter-card-game) |
 | [3691-maximum-total-subarray-value-ii](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3691-maximum-total-subarray-value-ii) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
@@ -423,6 +424,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3557-find-maximum-number-of-non-intersecting-substrings](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3557-find-maximum-number-of-non-intersecting-substrings) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
+| [3663-find-the-least-frequent-digit](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3663-find-the-least-frequent-digit) |
 | [3664-two-letter-card-game](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3664-two-letter-card-game) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3728-stable-subarrays-with-equal-boundary-and-interior-sum](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3728-stable-subarrays-with-equal-boundary-and-interior-sum) |
@@ -761,6 +763,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3658-gcd-of-odd-and-even-sums) |
+| [3663-find-the-least-frequent-digit](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3663-find-the-least-frequent-digit) |
 | [3666-minimum-operations-to-equalize-binary-string](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3666-minimum-operations-to-equalize-binary-string) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3725-count-ways-to-choose-coprime-integers-from-rows](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3725-count-ways-to-choose-coprime-integers-from-rows) |
@@ -862,6 +865,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3312-sorted-gcd-pair-queries) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3518-smallest-palindromic-rearrangement-ii) |
+| [3663-find-the-least-frequent-digit](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3663-find-the-least-frequent-digit) |
 | [3664-two-letter-card-game](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3664-two-letter-card-game) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3943-number-of-pairs-after-increment](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3943-number-of-pairs-after-increment) |
