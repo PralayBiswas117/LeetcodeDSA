@@ -118,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0454-4sum-ii](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0454-4sum-ii) |
 | [0455-assign-cookies](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0455-assign-cookies) |
+| [0457-circular-array-loop](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0457-circular-array-loop) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0463-island-perimeter](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0463-island-perimeter) |
 | [0472-concatenated-words](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0472-concatenated-words) |
@@ -371,6 +372,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0451-sort-characters-by-frequency) |
 | [0454-4sum-ii](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0454-4sum-ii) |
+| [0457-circular-array-loop](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0457-circular-array-loop) |
 | [0460-lfu-cache](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0460-lfu-cache) |
 | [0496-next-greater-element-i](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0496-next-greater-element-i) |
 | [0500-keyboard-row](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0500-keyboard-row) |
@@ -1030,6 +1032,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0443-string-compression) |
 | [0455-assign-cookies](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0455-assign-cookies) |
+| [0457-circular-array-loop](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0457-circular-array-loop) |
 | [0680-valid-palindrome-ii](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0680-valid-palindrome-ii) |
 | [0832-flipping-an-image](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0832-flipping-an-image) |
 | [0962-maximum-width-ramp](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0962-maximum-width-ramp) |
@@ -1881,6 +1884,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0141-linked-list-cycle](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0142-linked-list-cycle-ii) |
+| [0457-circular-array-loop](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0457-circular-array-loop) |
 ## Prime Factorization
 |  |
 | ------- |
