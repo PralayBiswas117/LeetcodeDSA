@@ -371,6 +371,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0451-sort-characters-by-frequency) |
 | [0454-4sum-ii](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0454-4sum-ii) |
+| [0460-lfu-cache](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0460-lfu-cache) |
 | [0496-next-greater-element-i](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0496-next-greater-element-i) |
 | [0500-keyboard-row](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0500-keyboard-row) |
 | [0560-subarray-sum-equals-k](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0560-subarray-sum-equals-k) |
@@ -1553,6 +1554,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0206-reverse-linked-list](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0234-palindrome-linked-list) |
 | [0382-linked-list-random-node](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0382-linked-list-random-node) |
+| [0460-lfu-cache](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0460-lfu-cache) |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
@@ -1829,6 +1831,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [0384-shuffle-an-array](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0384-shuffle-an-array) |
 | [0449-serialize-and-deserialize-bst](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0449-serialize-and-deserialize-bst) |
+| [0460-lfu-cache](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0460-lfu-cache) |
 | [0933-number-of-recent-calls](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0933-number-of-recent-calls) |
 | [2069-walking-robot-simulation-ii](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/2069-walking-robot-simulation-ii) |
 ## Randomized
@@ -2046,6 +2049,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0146-lru-cache) |
+| [0460-lfu-cache](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0460-lfu-cache) |
 ## Pigeonhole Principle
 |  |
 | ------- |
