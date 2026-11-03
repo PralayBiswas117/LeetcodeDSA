@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0334-increasing-triplet-subsequence](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0334-increasing-triplet-subsequence) |
 | [0349-intersection-of-two-arrays](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0373-find-k-pairs-with-smallest-sums](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0380-insert-delete-getrandom-o1](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0380-insert-delete-getrandom-o1) |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [0384-shuffle-an-array](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0384-shuffle-an-array) |
@@ -977,6 +978,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0218-the-skyline-problem](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0218-the-skyline-problem) |
 | [0239-sliding-window-maximum](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0239-sliding-window-maximum) |
 | [0264-ugly-number-ii](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0264-ugly-number-ii) |
+| [0373-find-k-pairs-with-smallest-sums](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0451-sort-characters-by-frequency](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0451-sort-characters-by-frequency) |
 | [0912-sort-an-array](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0912-sort-an-array) |
 | [1383-maximum-performance-of-a-team](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/1383-maximum-performance-of-a-team) |
