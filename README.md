@@ -719,6 +719,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0292-nim-game](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0292-nim-game) |
 | [0326-power-of-three](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0342-power-of-four) |
+| [0371-sum-of-two-integers](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0371-sum-of-two-integers) |
 | [0372-super-pow](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0372-super-pow) |
 | [0380-insert-delete-getrandom-o1](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0380-insert-delete-getrandom-o1) |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
@@ -1081,6 +1082,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0287-find-the-duplicate-number) |
 | [0318-maximum-product-of-word-lengths](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0318-maximum-product-of-word-lengths) |
 | [0342-power-of-four](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0342-power-of-four) |
+| [0371-sum-of-two-integers](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0371-sum-of-two-integers) |
 | [0389-find-the-difference](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0389-find-the-difference) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0461-hamming-distance](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0461-hamming-distance) |
