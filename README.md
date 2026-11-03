@@ -302,6 +302,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3728-stable-subarrays-with-equal-boundary-and-interior-sum](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3728-stable-subarrays-with-equal-boundary-and-interior-sum) |
 | [3729-count-distinct-subarrays-divisible-by-k-in-sorted-array](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3729-count-distinct-subarrays-divisible-by-k-in-sorted-array) |
 | [3731-find-missing-elements](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3731-find-missing-elements) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3739-count-subarrays-with-majority-element-ii) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
@@ -787,6 +788,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3725-count-ways-to-choose-coprime-integers-from-rows](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3725-count-ways-to-choose-coprime-integers-from-rows) |
 | [3726-remove-zeros-in-decimal-representation](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3726-remove-zeros-in-decimal-representation) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3753-total-waviness-of-numbers-in-range-ii](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3753-total-waviness-of-numbers-in-range-ii) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
