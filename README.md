@@ -726,6 +726,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0382-linked-list-random-node](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0382-linked-list-random-node) |
 | [0384-shuffle-an-array](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0384-shuffle-an-array) |
 | [0396-rotate-function](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0396-rotate-function) |
+| [0400-nth-digit](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0400-nth-digit) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0415-add-strings](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0415-add-strings) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0453-minimum-moves-to-equal-array-elements) |
@@ -839,6 +840,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0300-longest-increasing-subsequence) |
 | [0349-intersection-of-two-arrays](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0400-nth-digit](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0400-nth-digit) |
 | [0704-binary-search](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0875-koko-eating-bananas) |
