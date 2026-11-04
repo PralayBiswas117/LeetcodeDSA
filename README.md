@@ -1090,6 +1090,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0342-power-of-four) |
 | [0371-sum-of-two-integers](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0371-sum-of-two-integers) |
 | [0389-find-the-difference](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0389-find-the-difference) |
+| [0397-integer-replacement](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0397-integer-replacement) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0461-hamming-distance](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0461-hamming-distance) |
 | [0832-flipping-an-image](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0832-flipping-an-image) |
@@ -1189,6 +1190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0300-longest-increasing-subsequence) |
 | [0392-is-subsequence](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0392-is-subsequence) |
 | [0396-rotate-function](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0396-rotate-function) |
+| [0397-integer-replacement](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0397-integer-replacement) |
 | [0458-poor-pigs](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0458-poor-pigs) |
 | [0472-concatenated-words](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0472-concatenated-words) |
 | [0474-ones-and-zeroes](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0474-ones-and-zeroes) |
@@ -1255,6 +1257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0324-wiggle-sort-ii](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0324-wiggle-sort-ii) |
 | [0330-patching-array](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0330-patching-array) |
 | [0334-increasing-triplet-subsequence](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0334-increasing-triplet-subsequence) |
+| [0397-integer-replacement](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0397-integer-replacement) |
 | [0409-longest-palindrome](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0409-longest-palindrome) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0455-assign-cookies) |
@@ -1325,6 +1328,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0140-word-break-ii) |
 | [0241-different-ways-to-add-parentheses](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0241-different-ways-to-add-parentheses) |
+| [0397-integer-replacement](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0397-integer-replacement) |
 | [0509-fibonacci-number](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0509-fibonacci-number) |
 | [0964-least-operators-to-express-number](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0964-least-operators-to-express-number) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
