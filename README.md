@@ -370,6 +370,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0380-insert-delete-getrandom-o1](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0380-insert-delete-getrandom-o1) |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [0389-find-the-difference](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0389-find-the-difference) |
+| [0398-random-pick-index](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0398-random-pick-index) |
 | [0409-longest-palindrome](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0409-longest-palindrome) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -728,6 +729,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0382-linked-list-random-node](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0382-linked-list-random-node) |
 | [0384-shuffle-an-array](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0384-shuffle-an-array) |
 | [0396-rotate-function](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0396-rotate-function) |
+| [0398-random-pick-index](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0398-random-pick-index) |
 | [0400-nth-digit](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0400-nth-digit) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0415-add-strings](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0415-add-strings) |
@@ -1866,6 +1868,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [0382-linked-list-random-node](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0382-linked-list-random-node) |
 | [0384-shuffle-an-array](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0384-shuffle-an-array) |
+| [0398-random-pick-index](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0398-random-pick-index) |
 ## Knapsack Problem
 |  |
 | ------- |
@@ -2180,6 +2183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0382-linked-list-random-node](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0382-linked-list-random-node) |
+| [0398-random-pick-index](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0398-random-pick-index) |
 ## Knuth–Morris–Pratt Algorithm
 |  |
 | ------- |
