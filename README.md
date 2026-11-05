@@ -165,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1383-maximum-performance-of-a-team](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/1383-maximum-performance-of-a-team) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1386-cinema-seat-allocation](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/1386-cinema-seat-allocation) |
 | [1406-stone-game-iii](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/1406-stone-game-iii) |
 | [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
@@ -634,6 +635,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1383-maximum-performance-of-a-team](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/1383-maximum-performance-of-a-team) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
@@ -853,6 +855,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0888-fair-candy-swap](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0888-fair-candy-swap) |
 | [1201-ugly-number-iii](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/1201-ugly-number-iii) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1552-magnetic-force-between-two-balls](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/1552-magnetic-force-between-two-balls) |
 | [1574-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/1574-shortest-subarray-to-be-removed-to-make-array-sorted) |
@@ -1054,6 +1057,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0832-flipping-an-image](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0832-flipping-an-image) |
 | [0962-maximum-width-ramp](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0962-maximum-width-ramp) |
 | [0969-pancake-sorting](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0969-pancake-sorting) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1574-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/1574-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1861-rotating-the-box](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/1861-rotating-the-box) |
