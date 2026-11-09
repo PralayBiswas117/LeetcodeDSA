@@ -177,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1572-matrix-diagonal-sum](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/1572-matrix-diagonal-sum) |
 | [1574-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/1574-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1575-count-all-possible-routes](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/1575-count-all-possible-routes) |
+| [1604-alert-using-same-key-card-three-or-more-times-in-a-one-hour-period](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/1604-alert-using-same-key-card-three-or-more-times-in-a-one-hour-period) |
 | [1605-find-valid-matrix-given-row-and-column-sums](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/1605-find-valid-matrix-given-row-and-column-sums) |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 | [1630-arithmetic-subarrays](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/1630-arithmetic-subarrays) |
@@ -407,6 +408,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
+| [1604-alert-using-same-key-card-three-or-more-times-in-a-one-hour-period](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/1604-alert-using-same-key-card-three-or-more-times-in-a-one-hour-period) |
 | [1630-arithmetic-subarrays](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/1630-arithmetic-subarrays) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
@@ -556,6 +558,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1573-number-of-ways-to-split-a-string](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/1573-number-of-ways-to-split-a-string) |
 | [1576-replace-all-s-to-avoid-consecutive-repeating-characters](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/1576-replace-all-s-to-avoid-consecutive-repeating-characters) |
+| [1604-alert-using-same-key-card-three-or-more-times-in-a-one-hour-period](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/1604-alert-using-same-key-card-three-or-more-times-in-a-one-hour-period) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1859-sorting-the-sentence](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/1859-sorting-the-sentence) |
@@ -649,6 +652,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1552-magnetic-force-between-two-balls](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/1552-magnetic-force-between-two-balls) |
+| [1604-alert-using-same-key-card-three-or-more-times-in-a-one-hour-period](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/1604-alert-using-same-key-card-three-or-more-times-in-a-one-hour-period) |
 | [1630-arithmetic-subarrays](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/1630-arithmetic-subarrays) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1637-widest-vertical-area-between-two-points-containing-no-points](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/1637-widest-vertical-area-between-two-points-containing-no-points) |
