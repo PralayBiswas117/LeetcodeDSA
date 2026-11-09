@@ -157,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1202-smallest-string-with-swaps](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/1202-smallest-string-with-swaps) |
 | [1254-number-of-closed-islands](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/1254-number-of-closed-islands) |
 | [1260-shift-2d-grid](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/1260-shift-2d-grid) |
+| [1267-count-servers-that-communicate](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/1267-count-servers-that-communicate) |
 | [1306-jump-game-iii](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/1306-jump-game-iii) |
 | [1331-rank-transform-of-an-array](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/1331-rank-transform-of-an-array) |
 | [1340-jump-game-v](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/1340-jump-game-v) |
@@ -905,6 +906,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0229-majority-element-ii) |
 | [0451-sort-characters-by-frequency](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0451-sort-characters-by-frequency) |
 | [1189-maximum-number-of-balloons](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/1189-maximum-number-of-balloons) |
+| [1267-count-servers-that-communicate](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/1267-count-servers-that-communicate) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [2029-stone-game-ix](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/2029-stone-game-ix) |
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
@@ -1386,6 +1388,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1096-brace-expansion-ii](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/1096-brace-expansion-ii) |
 | [1202-smallest-string-with-swaps](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/1202-smallest-string-with-swaps) |
 | [1254-number-of-closed-islands](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/1267-count-servers-that-communicate) |
 | [1306-jump-game-iii](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/1306-jump-game-iii) |
 | [1345-jump-game-iv](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/1345-jump-game-iv) |
 | [2092-find-all-people-with-secret](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/2092-find-all-people-with-secret) |
@@ -1407,6 +1410,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0399-evaluate-division](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0399-evaluate-division) |
 | [1202-smallest-string-with-swaps](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/1202-smallest-string-with-swaps) |
 | [1254-number-of-closed-islands](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/1267-count-servers-that-communicate) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1998-gcd-sort-of-an-array](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/1998-gcd-sort-of-an-array) |
 | [2092-find-all-people-with-secret](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/2092-find-all-people-with-secret) |
@@ -1445,6 +1449,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0835-image-overlap](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0835-image-overlap) |
 | [1254-number-of-closed-islands](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/1254-number-of-closed-islands) |
 | [1260-shift-2d-grid](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/1260-shift-2d-grid) |
+| [1267-count-servers-that-communicate](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/1267-count-servers-that-communicate) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/1572-matrix-diagonal-sum) |
 | [1861-rotating-the-box](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/1861-rotating-the-box) |
@@ -1741,6 +1746,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1192-critical-connections-in-a-network](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/1192-critical-connections-in-a-network) |
 | [1202-smallest-string-with-swaps](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/1202-smallest-string-with-swaps) |
 | [1254-number-of-closed-islands](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/1267-count-servers-that-communicate) |
 | [1306-jump-game-iii](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/1306-jump-game-iii) |
 | [1932-merge-bsts-to-create-single-bst](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/1932-merge-bsts-to-create-single-bst) |
 | [2092-find-all-people-with-secret](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/2092-find-all-people-with-secret) |
