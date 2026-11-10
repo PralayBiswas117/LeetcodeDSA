@@ -305,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3664-two-letter-card-game](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3664-two-letter-card-game) |
 | [3691-maximum-total-subarray-value-ii](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3691-maximum-total-subarray-value-ii) |
 | [3693-climbing-stairs-ii](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3693-climbing-stairs-ii) |
+| [3695-maximize-alternating-sum-using-swaps](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3695-maximize-alternating-sum-using-swaps) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3724-minimum-operations-to-transform-array](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3724-minimum-operations-to-transform-array) |
@@ -701,6 +702,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3645-maximum-total-from-optimal-activation-order](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3645-maximum-total-from-optimal-activation-order) |
+| [3695-maximize-alternating-sum-using-swaps](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3695-maximize-alternating-sum-using-swaps) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3731-find-missing-elements](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3731-find-missing-elements) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -1343,6 +1345,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3645-maximum-total-from-optimal-activation-order](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3645-maximum-total-from-optimal-activation-order) |
 | [3691-maximum-total-subarray-value-ii](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3691-maximum-total-subarray-value-ii) |
+| [3695-maximize-alternating-sum-using-swaps](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3695-maximize-alternating-sum-using-swaps) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3724-minimum-operations-to-transform-array](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3724-minimum-operations-to-transform-array) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3727-maximum-alternating-sum-of-squares) |
@@ -1439,6 +1442,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3666-minimum-operations-to-equalize-binary-string](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3666-minimum-operations-to-equalize-binary-string) |
+| [3695-maximize-alternating-sum-using-swaps](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3695-maximize-alternating-sum-using-swaps) |
 ## Matrix
 |  |
 | ------- |
