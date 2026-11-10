@@ -454,6 +454,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3663-find-the-least-frequent-digit](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3663-find-the-least-frequent-digit) |
 | [3664-two-letter-card-game](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3664-two-letter-card-game) |
+| [3694-distinct-points-reachable-after-substring-removal](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3694-distinct-points-reachable-after-substring-removal) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3728-stable-subarrays-with-equal-boundary-and-interior-sum](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3728-stable-subarrays-with-equal-boundary-and-interior-sum) |
 | [3729-count-distinct-subarrays-divisible-by-k-in-sorted-array](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3729-count-distinct-subarrays-divisible-by-k-in-sorted-array) |
@@ -595,6 +596,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3614-process-string-with-special-operations-ii](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3614-process-string-with-special-operations-ii) |
 | [3664-two-letter-card-game](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3664-two-letter-card-game) |
 | [3666-minimum-operations-to-equalize-binary-string](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3666-minimum-operations-to-equalize-binary-string) |
+| [3694-distinct-points-reachable-after-substring-removal](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3694-distinct-points-reachable-after-substring-removal) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 | [3838-weighted-word-mapping](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3838-weighted-word-mapping) |
@@ -948,6 +950,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3546-equal-sum-grid-partition-i](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3546-equal-sum-grid-partition-i) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3548-equal-sum-grid-partition-ii) |
 | [3655-xor-after-range-multiplication-queries-ii](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3655-xor-after-range-multiplication-queries-ii) |
+| [3694-distinct-points-reachable-after-substring-removal](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3694-distinct-points-reachable-after-substring-removal) |
 | [3728-stable-subarrays-with-equal-boundary-and-interior-sum](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3728-stable-subarrays-with-equal-boundary-and-interior-sum) |
 | [3729-count-distinct-subarrays-divisible-by-k-in-sorted-array](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3729-count-distinct-subarrays-divisible-by-k-in-sorted-array) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -977,6 +980,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2902-count-of-sub-multisets-with-bounded-sum](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/2902-count-of-sub-multisets-with-bounded-sum) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
+| [3694-distinct-points-reachable-after-substring-removal](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3694-distinct-points-reachable-after-substring-removal) |
 ## Divide and Conquer
 |  |
 | ------- |
