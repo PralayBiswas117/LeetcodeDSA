@@ -307,6 +307,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3693-climbing-stairs-ii](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3693-climbing-stairs-ii) |
 | [3695-maximize-alternating-sum-using-swaps](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3695-maximize-alternating-sum-using-swaps) |
 | [3697-compute-decimal-representation](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3697-compute-decimal-representation) |
+| [3698-split-array-with-minimum-difference](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3698-split-array-with-minimum-difference) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3724-minimum-operations-to-transform-array](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3724-minimum-operations-to-transform-array) |
@@ -955,6 +956,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3548-equal-sum-grid-partition-ii](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3548-equal-sum-grid-partition-ii) |
 | [3655-xor-after-range-multiplication-queries-ii](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3655-xor-after-range-multiplication-queries-ii) |
 | [3694-distinct-points-reachable-after-substring-removal](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3694-distinct-points-reachable-after-substring-removal) |
+| [3698-split-array-with-minimum-difference](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3698-split-array-with-minimum-difference) |
 | [3728-stable-subarrays-with-equal-boundary-and-interior-sum](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3728-stable-subarrays-with-equal-boundary-and-interior-sum) |
 | [3729-count-distinct-subarrays-divisible-by-k-in-sorted-array](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3729-count-distinct-subarrays-divisible-by-k-in-sorted-array) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3737-count-subarrays-with-majority-element-i) |
