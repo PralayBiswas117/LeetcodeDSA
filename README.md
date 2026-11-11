@@ -323,6 +323,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
 | [3742-maximum-path-score-in-a-grid](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3742-maximum-path-score-in-a-grid) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
+| [3781-maximum-score-after-binary-swaps](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3781-maximum-score-after-binary-swaps) |
 | [3788-maximum-score-of-a-split](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3788-maximum-score-of-a-split) |
 | [3818-minimum-prefix-removal-to-make-array-strictly-increasing](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3818-minimum-prefix-removal-to-make-array-strictly-increasing) |
 | [3838-weighted-word-mapping](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3838-weighted-word-mapping) |
@@ -603,6 +604,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3694-distinct-points-reachable-after-substring-removal](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3694-distinct-points-reachable-after-substring-removal) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
+| [3781-maximum-score-after-binary-swaps](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3781-maximum-score-after-binary-swaps) |
 | [3838-weighted-word-mapping](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3838-weighted-word-mapping) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3863-minimum-operations-to-sort-a-string) |
@@ -1043,6 +1045,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3620-network-recovery-pathways](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3620-network-recovery-pathways) |
 | [3645-maximum-total-from-optimal-activation-order](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3645-maximum-total-from-optimal-activation-order) |
 | [3691-maximum-total-subarray-value-ii](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3691-maximum-total-subarray-value-ii) |
+| [3781-maximum-score-after-binary-swaps](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3781-maximum-score-after-binary-swaps) |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Quickselect
 |  |
@@ -1358,6 +1361,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3724-minimum-operations-to-transform-array](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3724-minimum-operations-to-transform-array) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3727-maximum-alternating-sum-of-squares) |
+| [3781-maximum-score-after-binary-swaps](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3781-maximum-score-after-binary-swaps) |
 | [3789-minimum-cost-to-acquire-required-items](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3789-minimum-cost-to-acquire-required-items) |
 ## Graph Theory
 |  |
