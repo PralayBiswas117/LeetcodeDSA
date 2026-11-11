@@ -323,6 +323,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
 | [3742-maximum-path-score-in-a-grid](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3742-maximum-path-score-in-a-grid) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
+| [3788-maximum-score-of-a-split](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3788-maximum-score-of-a-split) |
 | [3818-minimum-prefix-removal-to-make-array-strictly-increasing](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3818-minimum-prefix-removal-to-make-array-strictly-increasing) |
 | [3838-weighted-word-mapping](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3838-weighted-word-mapping) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3841-palindromic-path-queries-in-a-tree) |
@@ -964,6 +965,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3737-count-subarrays-with-majority-element-i](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3739-count-subarrays-with-majority-element-ii) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
+| [3788-maximum-score-of-a-split](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3788-maximum-score-of-a-split) |
 | [3864-minimum-cost-to-partition-a-binary-string](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3864-minimum-cost-to-partition-a-binary-string) |
 | [3903-smallest-stable-index-i](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3904-smallest-stable-index-ii) |
