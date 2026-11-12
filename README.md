@@ -268,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3111-minimum-rectangles-to-cover-points](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3111-minimum-rectangles-to-cover-points) |
 | [3112-minimum-time-to-visit-disappearing-nodes](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3112-minimum-time-to-visit-disappearing-nodes) |
+| [3113-find-the-number-of-subarrays-where-boundary-elements-are-maximum](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3113-find-the-number-of-subarrays-where-boundary-elements-are-maximum) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3161-block-placement-queries](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3161-block-placement-queries) |
 | [3225-maximum-score-from-grid-operations](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3225-maximum-score-from-grid-operations) |
@@ -900,6 +901,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2540-minimum-common-value](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/2540-minimum-common-value) |
 | [2790-maximum-number-of-groups-with-increasing-length](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/2790-maximum-number-of-groups-with-increasing-length) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [3113-find-the-number-of-subarrays-where-boundary-elements-are-maximum](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3113-find-the-number-of-subarrays-where-boundary-elements-are-maximum) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3161-block-placement-queries](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3161-block-placement-queries) |
 | [3312-sorted-gcd-pair-queries](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3312-sorted-gcd-pair-queries) |
@@ -1617,6 +1619,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2751-robot-collisions](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/2751-robot-collisions) |
+| [3113-find-the-number-of-subarrays-where-boundary-elements-are-maximum](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3113-find-the-number-of-subarrays-where-boundary-elements-are-maximum) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -1628,6 +1631,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0496-next-greater-element-i) |
 | [0962-maximum-width-ramp](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0962-maximum-width-ramp) |
 | [1574-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/1574-shortest-subarray-to-be-removed-to-make-array-sorted) |
+| [3113-find-the-number-of-subarrays-where-boundary-elements-are-maximum](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3113-find-the-number-of-subarrays-where-boundary-elements-are-maximum) |
 ## Linked List
 |  |
 | ------- |
