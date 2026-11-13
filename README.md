@@ -278,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3483-unique-3-digit-even-numbers](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3483-unique-3-digit-even-numbers) |
 | [3488-closest-equal-element-queries](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3488-closest-equal-element-queries) |
@@ -1000,6 +1001,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2902-count-of-sub-multisets-with-bounded-sum](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/2902-count-of-sub-multisets-with-bounded-sum) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3694-distinct-points-reachable-after-substring-removal](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3694-distinct-points-reachable-after-substring-removal) |
 ## Divide and Conquer
 |  |
@@ -1621,6 +1623,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2751-robot-collisions](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/2751-robot-collisions) |
 | [3113-find-the-number-of-subarrays-where-boundary-elements-are-maximum](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3113-find-the-number-of-subarrays-where-boundary-elements-are-maximum) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -1633,6 +1636,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0962-maximum-width-ramp](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0962-maximum-width-ramp) |
 | [1574-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/1574-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [3113-find-the-number-of-subarrays-where-boundary-elements-are-maximum](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3113-find-the-number-of-subarrays-where-boundary-elements-are-maximum) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 ## Linked List
 |  |
 | ------- |
@@ -1911,6 +1915,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [3161-block-placement-queries](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3161-block-placement-queries) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3525-find-x-value-of-array-ii](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3525-find-x-value-of-array-ii) |
 | [3691-maximum-total-subarray-value-ii](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3691-maximum-total-subarray-value-ii) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -1982,6 +1987,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0232-implement-queue-using-stacks](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0232-implement-queue-using-stacks) |
 | [0239-sliding-window-maximum](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0239-sliding-window-maximum) |
 | [0933-number-of-recent-calls](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0933-number-of-recent-calls) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 ## Data Stream
 |  |
 | ------- |
@@ -2248,6 +2254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0239-sliding-window-maximum) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 ## Binary Lifting
 |  |
 | ------- |
