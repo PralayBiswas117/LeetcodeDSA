@@ -276,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3312-sorted-gcd-pair-queries](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
+| [3364-minimum-positive-sum-subarray](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3364-minimum-positive-sum-subarray) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
@@ -965,6 +966,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2574-left-and-right-sum-differences](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/2574-left-and-right-sum-differences) |
 | [3225-maximum-score-from-grid-operations](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3225-maximum-score-from-grid-operations) |
 | [3312-sorted-gcd-pair-queries](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3312-sorted-gcd-pair-queries) |
+| [3364-minimum-positive-sum-subarray](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3364-minimum-positive-sum-subarray) |
 | [3546-equal-sum-grid-partition-i](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3546-equal-sum-grid-partition-i) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3548-equal-sum-grid-partition-ii) |
 | [3655-xor-after-range-multiplication-queries-ii](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3655-xor-after-range-multiplication-queries-ii) |
@@ -1001,6 +1003,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2902-count-of-sub-multisets-with-bounded-sum](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/2902-count-of-sub-multisets-with-bounded-sum) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
+| [3364-minimum-positive-sum-subarray](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3364-minimum-positive-sum-subarray) |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3694-distinct-points-reachable-after-substring-removal](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3694-distinct-points-reachable-after-substring-removal) |
 ## Divide and Conquer
