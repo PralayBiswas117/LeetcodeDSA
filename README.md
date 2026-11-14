@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0324-wiggle-sort-ii](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0324-wiggle-sort-ii) |
 | [0330-patching-array](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0330-patching-array) |
 | [0334-increasing-triplet-subsequence](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0334-increasing-triplet-subsequence) |
+| [0336-palindrome-pairs](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0336-palindrome-pairs) |
 | [0349-intersection-of-two-arrays](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0373-find-k-pairs-with-smallest-sums) |
@@ -387,6 +388,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0264-ugly-number-ii](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0264-ugly-number-ii) |
 | [0268-missing-number](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0268-missing-number) |
 | [0290-word-pattern](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0290-word-pattern) |
+| [0336-palindrome-pairs](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0336-palindrome-pairs) |
 | [0349-intersection-of-two-arrays](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0380-insert-delete-getrandom-o1](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0380-insert-delete-getrandom-o1) |
@@ -535,6 +537,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0301-remove-invalid-parentheses](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0301-remove-invalid-parentheses) |
 | [0316-remove-duplicate-letters](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0316-remove-duplicate-letters) |
 | [0318-maximum-product-of-word-lengths](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0318-maximum-product-of-word-lengths) |
+| [0336-palindrome-pairs](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0336-palindrome-pairs) |
 | [0344-reverse-string](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0345-reverse-vowels-of-a-string) |
 | [0389-find-the-difference](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0389-find-the-difference) |
@@ -1742,6 +1745,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0187-repeated-dna-sequences) |
 | [0214-shortest-palindrome](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0214-shortest-palindrome) |
+| [0336-palindrome-pairs](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0336-palindrome-pairs) |
 ## Topological Sort
 |  |
 | ------- |
@@ -1829,6 +1833,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0208-implement-trie-prefix-tree](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0212-word-search-ii](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0212-word-search-ii) |
+| [0336-palindrome-pairs](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0336-palindrome-pairs) |
 | [0472-concatenated-words](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0472-concatenated-words) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3093-longest-common-suffix-queries](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3093-longest-common-suffix-queries) |
