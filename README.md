@@ -175,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
+| [1528-shuffle-string](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/1528-shuffle-string) |
 | [1552-magnetic-force-between-two-balls](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/1552-magnetic-force-between-two-balls) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1572-matrix-diagonal-sum](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/1572-matrix-diagonal-sum) |
@@ -576,6 +577,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1525-number-of-good-ways-to-split-a-string](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/1525-number-of-good-ways-to-split-a-string) |
+| [1528-shuffle-string](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/1528-shuffle-string) |
 | [1573-number-of-ways-to-split-a-string](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/1573-number-of-ways-to-split-a-string) |
 | [1576-replace-all-s-to-avoid-consecutive-repeating-characters](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/1576-replace-all-s-to-avoid-consecutive-repeating-characters) |
 | [1604-alert-using-same-key-card-three-or-more-times-in-a-one-hour-period](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/1604-alert-using-same-key-card-three-or-more-times-in-a-one-hour-period) |
