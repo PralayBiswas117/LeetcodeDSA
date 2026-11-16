@@ -590,6 +590,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/2213-longest-substring-of-one-repeating-character) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2409-count-days-spent-together](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/2409-count-days-spent-together) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2573-find-the-string-with-lcp](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/2573-find-the-string-with-lcp) |
@@ -1212,6 +1213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2069-walking-robot-simulation-ii](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/2069-walking-robot-simulation-ii) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/2161-partition-array-according-to-given-pivot) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2553-separate-the-digits-in-an-array](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/2553-separate-the-digits-in-an-array) |
 | [2751-robot-collisions](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/2751-robot-collisions) |
 | [2899-last-visited-integers](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/2899-last-visited-integers) |
