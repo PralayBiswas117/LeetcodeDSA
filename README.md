@@ -610,6 +610,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 | [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/2914-minimum-number-of-changes-to-make-binary-string-beautiful) |
+| [3003-maximize-the-number-of-partitions-after-operations](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3003-maximize-the-number-of-partitions-after-operations) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
@@ -1192,6 +1193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2917-find-the-k-or-of-an-array](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/2917-find-the-k-or-of-an-array) |
 | [2920-maximum-points-after-collecting-coins-from-all-nodes](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/2920-maximum-points-after-collecting-coins-from-all-nodes) |
+| [3003-maximize-the-number-of-partitions-after-operations](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3003-maximize-the-number-of-partitions-after-operations) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3514-number-of-unique-xor-triplets-ii) |
@@ -1325,6 +1327,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 | [2915-length-of-the-longest-subsequence-that-sums-to-target](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/2915-length-of-the-longest-subsequence-that-sums-to-target) |
 | [2920-maximum-points-after-collecting-coins-from-all-nodes](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/2920-maximum-points-after-collecting-coins-from-all-nodes) |
+| [3003-maximize-the-number-of-partitions-after-operations](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3003-maximize-the-number-of-partitions-after-operations) |
 | [3225-maximum-score-from-grid-operations](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3225-maximum-score-from-grid-operations) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -2367,4 +2370,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1605-find-valid-matrix-given-row-and-column-sums](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/1605-find-valid-matrix-given-row-and-column-sums) |
+## Bitmask
+|  |
+| ------- |
+| [3003-maximize-the-number-of-partitions-after-operations](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3003-maximize-the-number-of-partitions-after-operations) |
 <!---LeetCode Topics End-->
