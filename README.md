@@ -269,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2965-find-missing-and-repeated-values](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/2965-find-missing-and-repeated-values) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3000-maximum-area-of-longest-diagonal-rectangle](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3000-maximum-area-of-longest-diagonal-rectangle) |
+| [3002-maximum-size-of-a-set-after-removals](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3002-maximum-size-of-a-set-after-removals) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3069-distribute-elements-into-two-arrays-i) |
@@ -457,6 +458,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2965-find-missing-and-repeated-values](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/2965-find-missing-and-repeated-values) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3002-maximum-size-of-a-set-after-removals](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3002-maximum-size-of-a-set-after-removals) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
@@ -1395,6 +1397,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2900-longest-unequal-adjacent-groups-subsequence-i](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/2900-longest-unequal-adjacent-groups-subsequence-i) |
 | [2918-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/2918-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
+| [3002-maximum-size-of-a-set-after-removals](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3002-maximum-size-of-a-set-after-removals) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3111-minimum-rectangles-to-cover-points](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3111-minimum-rectangles-to-cover-points) |
