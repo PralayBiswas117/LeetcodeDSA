@@ -245,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2572-count-the-number-of-square-free-subsets](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/2572-count-the-number-of-square-free-subsets) |
 | [2573-find-the-string-with-lcp](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/2573-find-the-string-with-lcp) |
 | [2574-left-and-right-sum-differences](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/2574-left-and-right-sum-differences) |
+| [2575-find-the-divisibility-array-of-a-string](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/2575-find-the-divisibility-array-of-a-string) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2733-neither-minimum-nor-maximum](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/2733-neither-minimum-nor-maximum) |
 | [2747-count-zero-request-servers](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/2747-count-zero-request-servers) |
@@ -610,6 +611,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2409-count-days-spent-together](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/2409-count-days-spent-together) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2573-find-the-string-with-lcp](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/2573-find-the-string-with-lcp) |
+| [2575-find-the-divisibility-array-of-a-string](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/2575-find-the-divisibility-array-of-a-string) |
 | [2788-split-strings-by-separator](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/2788-split-strings-by-separator) |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
@@ -840,6 +842,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2396-strictly-palindromic-number](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/2396-strictly-palindromic-number) |
 | [2409-count-days-spent-together](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/2409-count-days-spent-together) |
 | [2572-count-the-number-of-square-free-subsets](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/2572-count-the-number-of-square-free-subsets) |
+| [2575-find-the-divisibility-array-of-a-string](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/2575-find-the-divisibility-array-of-a-string) |
 | [2790-maximum-number-of-groups-with-increasing-length](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/2790-maximum-number-of-groups-with-increasing-length) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [2965-find-missing-and-repeated-values](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/2965-find-missing-and-repeated-values) |
