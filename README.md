@@ -1200,6 +1200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1525-number-of-good-ways-to-split-a-string](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/1525-number-of-good-ways-to-split-a-string) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [2568-minimum-impossible-or](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/2568-minimum-impossible-or) |
+| [2571-minimum-operations-to-reduce-an-integer-to-0](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/2571-minimum-operations-to-reduce-an-integer-to-0) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2791-count-paths-that-can-form-a-palindrome-in-a-tree](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/2791-count-paths-that-can-form-a-palindrome-in-a-tree) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
@@ -1331,6 +1332,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1931-painting-a-grid-with-three-different-colors](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/1931-painting-a-grid-with-three-different-colors) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2463-minimum-total-distance-traveled](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/2463-minimum-total-distance-traveled) |
+| [2571-minimum-operations-to-reduce-an-integer-to-0](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/2571-minimum-operations-to-reduce-an-integer-to-0) |
 | [2573-find-the-string-with-lcp](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/2573-find-the-string-with-lcp) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 | [2900-longest-unequal-adjacent-groups-subsequence-i](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/2900-longest-unequal-adjacent-groups-subsequence-i) |
@@ -1407,6 +1409,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2244-minimum-rounds-to-complete-all-tasks](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/2244-minimum-rounds-to-complete-all-tasks) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/2567-minimum-score-by-changing-two-elements) |
+| [2571-minimum-operations-to-reduce-an-integer-to-0](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/2571-minimum-operations-to-reduce-an-integer-to-0) |
 | [2573-find-the-string-with-lcp](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/2573-find-the-string-with-lcp) |
 | [2789-largest-element-in-an-array-after-merge-operations](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/2789-largest-element-in-an-array-after-merge-operations) |
 | [2790-maximum-number-of-groups-with-increasing-length](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/2790-maximum-number-of-groups-with-increasing-length) |
