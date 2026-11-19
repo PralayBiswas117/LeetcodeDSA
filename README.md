@@ -241,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2567-minimum-score-by-changing-two-elements](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2568-minimum-impossible-or](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/2568-minimum-impossible-or) |
 | [2569-handling-sum-queries-after-update](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/2569-handling-sum-queries-after-update) |
+| [2570-merge-two-2d-arrays-by-summing-values](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
 | [2573-find-the-string-with-lcp](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/2573-find-the-string-with-lcp) |
 | [2574-left-and-right-sum-differences](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/2574-left-and-right-sum-differences) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
@@ -450,6 +451,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2244-minimum-rounds-to-complete-all-tasks](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/2244-minimum-rounds-to-complete-all-tasks) |
 | [2251-number-of-flowers-in-full-bloom](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/2251-number-of-flowers-in-full-bloom) |
 | [2540-minimum-common-value](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/2540-minimum-common-value) |
+| [2570-merge-two-2d-arrays-by-summing-values](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2747-count-zero-request-servers](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/2747-count-zero-request-servers) |
 | [2784-check-if-array-is-good](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/2784-check-if-array-is-good) |
@@ -1155,6 +1157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2161-partition-array-according-to-given-pivot](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2396-strictly-palindromic-number](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/2396-strictly-palindromic-number) |
 | [2540-minimum-common-value](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/2540-minimum-common-value) |
+| [2570-merge-two-2d-arrays-by-summing-values](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
 | [2903-find-indices-with-index-and-value-difference-i](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/2903-find-indices-with-index-and-value-difference-i) |
 | [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
