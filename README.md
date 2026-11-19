@@ -240,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2553-separate-the-digits-in-an-array](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/2553-separate-the-digits-in-an-array) |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2568-minimum-impossible-or](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/2568-minimum-impossible-or) |
+| [2569-handling-sum-queries-after-update](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/2569-handling-sum-queries-after-update) |
 | [2573-find-the-string-with-lcp](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/2573-find-the-string-with-lcp) |
 | [2574-left-and-right-sum-differences](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/2574-left-and-right-sum-differences) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
@@ -1978,6 +1979,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0218-the-skyline-problem](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0218-the-skyline-problem) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/2213-longest-substring-of-one-repeating-character) |
+| [2569-handling-sum-queries-after-update](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/2569-handling-sum-queries-after-update) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [3161-block-placement-queries](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3161-block-placement-queries) |
