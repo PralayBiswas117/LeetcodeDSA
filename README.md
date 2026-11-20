@@ -277,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3000-maximum-area-of-longest-diagonal-rectangle](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3000-maximum-area-of-longest-diagonal-rectangle) |
 | [3002-maximum-size-of-a-set-after-removals](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3002-maximum-size-of-a-set-after-removals) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
+| [3038-maximum-number-of-operations-with-the-same-score-i](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3038-maximum-number-of-operations-with-the-same-score-i) |
 | [3039-apply-operations-to-make-string-empty](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3039-apply-operations-to-make-string-empty) |
 | [3040-maximum-number-of-operations-with-the-same-score-ii](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3040-maximum-number-of-operations-with-the-same-score-ii) |
 | [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
@@ -1260,6 +1261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2751-robot-collisions](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/2751-robot-collisions) |
 | [2899-last-visited-integers](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/2899-last-visited-integers) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
+| [3038-maximum-number-of-operations-with-the-same-score-i](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3038-maximum-number-of-operations-with-the-same-score-i) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3498-reverse-degree-of-a-string](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3498-reverse-degree-of-a-string) |
 | [3612-process-string-with-special-operations-i](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3612-process-string-with-special-operations-i) |
