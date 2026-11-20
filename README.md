@@ -277,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3000-maximum-area-of-longest-diagonal-rectangle](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3000-maximum-area-of-longest-diagonal-rectangle) |
 | [3002-maximum-size-of-a-set-after-removals](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3002-maximum-size-of-a-set-after-removals) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
+| [3040-maximum-number-of-operations-with-the-same-score-ii](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3040-maximum-number-of-operations-with-the-same-score-ii) |
 | [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3069-distribute-elements-into-two-arrays-i) |
@@ -1352,6 +1353,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2915-length-of-the-longest-subsequence-that-sums-to-target](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/2915-length-of-the-longest-subsequence-that-sums-to-target) |
 | [2920-maximum-points-after-collecting-coins-from-all-nodes](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/2920-maximum-points-after-collecting-coins-from-all-nodes) |
 | [3003-maximize-the-number-of-partitions-after-operations](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3003-maximize-the-number-of-partitions-after-operations) |
+| [3040-maximum-number-of-operations-with-the-same-score-ii](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3040-maximum-number-of-operations-with-the-same-score-ii) |
 | [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
 | [3225-maximum-score-from-grid-operations](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3225-maximum-score-from-grid-operations) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -1478,6 +1480,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1575-count-all-possible-routes](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/1575-count-all-possible-routes) |
 | [2920-maximum-points-after-collecting-coins-from-all-nodes](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/2920-maximum-points-after-collecting-coins-from-all-nodes) |
+| [3040-maximum-number-of-operations-with-the-same-score-ii](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3040-maximum-number-of-operations-with-the-same-score-ii) |
 ## Breadth-First Search
 |  |
 | ------- |
