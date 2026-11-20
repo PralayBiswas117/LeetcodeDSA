@@ -277,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3000-maximum-area-of-longest-diagonal-rectangle](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3000-maximum-area-of-longest-diagonal-rectangle) |
 | [3002-maximum-size-of-a-set-after-removals](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3002-maximum-size-of-a-set-after-removals) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
+| [3034-number-of-subarrays-that-match-a-pattern-i](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3034-number-of-subarrays-that-match-a-pattern-i) |
 | [3038-maximum-number-of-operations-with-the-same-score-i](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3038-maximum-number-of-operations-with-the-same-score-i) |
 | [3039-apply-operations-to-make-string-empty](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3039-apply-operations-to-make-string-empty) |
 | [3040-maximum-number-of-operations-with-the-same-score-ii](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3040-maximum-number-of-operations-with-the-same-score-ii) |
@@ -1617,6 +1618,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0214-shortest-palindrome](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0214-shortest-palindrome) |
 | [0459-repeated-substring-pattern](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0459-repeated-substring-pattern) |
+| [3034-number-of-subarrays-that-match-a-pattern-i](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3034-number-of-subarrays-that-match-a-pattern-i) |
 | [3474-lexicographically-smallest-generated-string](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3474-lexicographically-smallest-generated-string) |
 ## Database
 |  |
@@ -1820,12 +1822,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0187-repeated-dna-sequences) |
 | [0214-shortest-palindrome](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0214-shortest-palindrome) |
+| [3034-number-of-subarrays-that-match-a-pattern-i](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3034-number-of-subarrays-that-match-a-pattern-i) |
 ## Hash Function
 |  |
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0187-repeated-dna-sequences) |
 | [0214-shortest-palindrome](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0214-shortest-palindrome) |
 | [0336-palindrome-pairs](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0336-palindrome-pairs) |
+| [3034-number-of-subarrays-that-match-a-pattern-i](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3034-number-of-subarrays-that-match-a-pattern-i) |
 ## Topological Sort
 |  |
 | ------- |
