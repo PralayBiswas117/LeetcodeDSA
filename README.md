@@ -224,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2126-destroying-asteroids](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/2126-destroying-asteroids) |
 | [2127-maximum-employees-to-be-invited-to-a-meeting](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/2127-maximum-employees-to-be-invited-to-a-meeting) |
 | [2132-stamping-the-grid](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/2132-stamping-the-grid) |
+| [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/2133-check-if-every-row-and-column-contains-all-numbers) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/2154-keep-multiplying-found-values-by-two) |
@@ -456,6 +457,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1932-merge-bsts-to-create-single-bst](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/1932-merge-bsts-to-create-single-bst) |
 | [2094-finding-3-digit-even-numbers](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/2094-finding-3-digit-even-numbers) |
 | [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/2099-find-subsequence-of-length-k-with-the-largest-sum) |
+| [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/2133-check-if-every-row-and-column-contains-all-numbers) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2244-minimum-rounds-to-complete-all-tasks](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/2244-minimum-rounds-to-complete-all-tasks) |
@@ -1598,6 +1600,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [2132-stamping-the-grid](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/2132-stamping-the-grid) |
+| [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/2133-check-if-every-row-and-column-contains-all-numbers) |
 | [2245-maximum-trailing-zeros-in-a-cornered-path](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/2245-maximum-trailing-zeros-in-a-cornered-path) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2573-find-the-string-with-lcp](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/2573-find-the-string-with-lcp) |
