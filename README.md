@@ -223,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [2126-destroying-asteroids](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/2126-destroying-asteroids) |
 | [2127-maximum-employees-to-be-invited-to-a-meeting](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/2127-maximum-employees-to-be-invited-to-a-meeting) |
+| [2132-stamping-the-grid](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/2132-stamping-the-grid) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/2154-keep-multiplying-found-values-by-two) |
@@ -1016,6 +1017,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1871-jump-game-vii](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/1871-jump-game-vii) |
 | [1872-stone-game-viii](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/1872-stone-game-viii) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/1930-unique-length-3-palindromic-subsequences) |
+| [2132-stamping-the-grid](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/2132-stamping-the-grid) |
 | [2245-maximum-trailing-zeros-in-a-cornered-path](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/2245-maximum-trailing-zeros-in-a-cornered-path) |
 | [2251-number-of-flowers-in-full-bloom](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/2251-number-of-flowers-in-full-bloom) |
 | [2574-left-and-right-sum-differences](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/2574-left-and-right-sum-differences) |
@@ -1430,6 +1432,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2126-destroying-asteroids](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/2126-destroying-asteroids) |
+| [2132-stamping-the-grid](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/2132-stamping-the-grid) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2244-minimum-rounds-to-complete-all-tasks](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/2244-minimum-rounds-to-complete-all-tasks) |
@@ -1594,6 +1597,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1914-cyclically-rotating-a-grid](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/1914-cyclically-rotating-a-grid) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/2125-number-of-laser-beams-in-a-bank) |
+| [2132-stamping-the-grid](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/2132-stamping-the-grid) |
 | [2245-maximum-trailing-zeros-in-a-cornered-path](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/2245-maximum-trailing-zeros-in-a-cornered-path) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2573-find-the-string-with-lcp](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/2573-find-the-string-with-lcp) |
