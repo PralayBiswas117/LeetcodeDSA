@@ -168,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1353-maximum-number-of-events-that-can-be-attended](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/1353-maximum-number-of-events-that-can-be-attended) |
 | [1354-construct-target-array-with-multiple-sums](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/1354-construct-target-array-with-multiple-sums) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
+| [1357-apply-discount-every-n-orders](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/1357-apply-discount-every-n-orders) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1383-maximum-performance-of-a-team](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/1383-maximum-performance-of-a-team) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/1385-find-the-distance-value-between-two-arrays) |
@@ -444,6 +445,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1202-smallest-string-with-swaps](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/1202-smallest-string-with-swaps) |
 | [1331-rank-transform-of-an-array](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/1331-rank-transform-of-an-array) |
 | [1345-jump-game-iv](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/1345-jump-game-iv) |
+| [1357-apply-discount-every-n-orders](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/1357-apply-discount-every-n-orders) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1386-cinema-seat-allocation](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/1386-cinema-seat-allocation) |
 | [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
@@ -2075,6 +2077,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0460-lfu-cache](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0460-lfu-cache) |
 | [0933-number-of-recent-calls](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0933-number-of-recent-calls) |
 | [1352-product-of-the-last-k-numbers](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/1352-product-of-the-last-k-numbers) |
+| [1357-apply-discount-every-n-orders](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/1357-apply-discount-every-n-orders) |
 | [1603-design-parking-system](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/1603-design-parking-system) |
 | [2069-walking-robot-simulation-ii](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/2069-walking-robot-simulation-ii) |
 ## Randomized
