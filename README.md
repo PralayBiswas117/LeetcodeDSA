@@ -845,6 +845,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1323-maximum-69-number](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/1323-maximum-69-number) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1352-product-of-the-last-k-numbers](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/1352-product-of-the-last-k-numbers) |
+| [1359-count-all-valid-pickup-and-delivery-options](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/1359-count-all-valid-pickup-and-delivery-options) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1406-stone-game-iii](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/1510-stone-game-iv) |
@@ -981,6 +982,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0062-unique-paths) |
 | [0458-poor-pigs](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0458-poor-pigs) |
 | [1201-ugly-number-iii](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/1201-ugly-number-iii) |
+| [1359-count-all-valid-pickup-and-delivery-options](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/1359-count-all-valid-pickup-and-delivery-options) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
@@ -1352,6 +1354,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1191-k-concatenation-maximum-sum](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/1191-k-concatenation-maximum-sum) |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
 | [1340-jump-game-v](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/1340-jump-game-v) |
+| [1359-count-all-valid-pickup-and-delivery-options](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/1359-count-all-valid-pickup-and-delivery-options) |
 | [1406-stone-game-iii](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/1406-stone-game-iii) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1510-stone-game-iv](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/1510-stone-game-iv) |
