@@ -655,6 +655,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3121-count-the-number-of-special-characters-ii](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3348-smallest-divisible-digit-product-ii) |
+| [3407-substring-matching-pattern](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3407-substring-matching-pattern) |
 | [3412-find-mirror-score-of-a-string](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3412-find-mirror-score-of-a-string) |
 | [3474-lexicographically-smallest-generated-string](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3474-lexicographically-smallest-generated-string) |
 | [3498-reverse-degree-of-a-string](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3498-reverse-degree-of-a-string) |
@@ -1664,6 +1665,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0214-shortest-palindrome](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0214-shortest-palindrome) |
 | [0459-repeated-substring-pattern](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0459-repeated-substring-pattern) |
 | [3034-number-of-subarrays-that-match-a-pattern-i](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3034-number-of-subarrays-that-match-a-pattern-i) |
+| [3407-substring-matching-pattern](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3407-substring-matching-pattern) |
 | [3474-lexicographically-smallest-generated-string](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3474-lexicographically-smallest-generated-string) |
 ## Database
 |  |
