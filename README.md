@@ -490,6 +490,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3120-count-the-number-of-special-characters-i](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3312-sorted-gcd-pair-queries) |
+| [3412-find-mirror-score-of-a-string](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3412-find-mirror-score-of-a-string) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3483-unique-3-digit-even-numbers](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3483-unique-3-digit-even-numbers) |
 | [3488-closest-equal-element-queries](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3488-closest-equal-element-queries) |
@@ -650,6 +651,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3121-count-the-number-of-special-characters-ii](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3348-smallest-divisible-digit-product-ii) |
+| [3412-find-mirror-score-of-a-string](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3412-find-mirror-score-of-a-string) |
 | [3474-lexicographically-smallest-generated-string](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3474-lexicographically-smallest-generated-string) |
 | [3498-reverse-degree-of-a-string](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3498-reverse-degree-of-a-string) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3517-smallest-palindromic-rearrangement-i) |
@@ -1289,6 +1291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3038-maximum-number-of-operations-with-the-same-score-i](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3038-maximum-number-of-operations-with-the-same-score-i) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3412-find-mirror-score-of-a-string](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3412-find-mirror-score-of-a-string) |
 | [3498-reverse-degree-of-a-string](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3498-reverse-degree-of-a-string) |
 | [3612-process-string-with-special-operations-i](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3612-process-string-with-special-operations-i) |
 | [3614-process-string-with-special-operations-ii](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3614-process-string-with-special-operations-ii) |
@@ -1743,6 +1746,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2751-robot-collisions](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/2751-robot-collisions) |
 | [3113-find-the-number-of-subarrays-where-boundary-elements-are-maximum](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3113-find-the-number-of-subarrays-where-boundary-elements-are-maximum) |
+| [3412-find-mirror-score-of-a-string](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3412-find-mirror-score-of-a-string) |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 ## Monotonic Stack
 |  |
