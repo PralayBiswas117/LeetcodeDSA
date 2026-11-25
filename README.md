@@ -373,6 +373,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3903-smallest-stable-index-i](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3904-smallest-stable-index-ii) |
 | [3934-smallest-unique-subarray](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3934-smallest-unique-subarray) |
+| [3936-minimum-swaps-to-move-zeros-to-end](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3936-minimum-swaps-to-move-zeros-to-end) |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3942-minimum-operations-to-sort-a-permutation) |
 | [3943-number-of-pairs-after-increment](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3943-number-of-pairs-after-increment) |
 | [4040-minimum-operations-to-form-subset-sum-i](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/4040-minimum-operations-to-form-subset-sum-i) |
@@ -1220,6 +1221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3645-maximum-total-from-optimal-activation-order](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3645-maximum-total-from-optimal-activation-order) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+| [3936-minimum-swaps-to-move-zeros-to-end](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3936-minimum-swaps-to-move-zeros-to-end) |
 ## Bit Manipulation
 |  |
 | ------- |
