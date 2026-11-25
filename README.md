@@ -525,6 +525,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 | [3934-smallest-unique-subarray](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3934-smallest-unique-subarray) |
+| [3941-password-strength](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3941-password-strength) |
 | [3943-number-of-pairs-after-increment](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3943-number-of-pairs-after-increment) |
 ## String
 |  |
@@ -681,6 +682,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3863-minimum-operations-to-sort-a-string) |
 | [3864-minimum-cost-to-partition-a-binary-string](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3864-minimum-cost-to-partition-a-binary-string) |
+| [3941-password-strength](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3941-password-strength) |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Sorting
 |  |
