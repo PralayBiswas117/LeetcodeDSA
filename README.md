@@ -377,6 +377,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3937-minimum-operations-to-make-array-modulo-alternating-i](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3937-minimum-operations-to-make-array-modulo-alternating-i) |
 | [3938-maximum-path-intersection-sum-in-a-grid](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3938-maximum-path-intersection-sum-in-a-grid) |
 | [3939-count-non-adjacent-subsets-in-a-rooted-tree](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3939-count-non-adjacent-subsets-in-a-rooted-tree) |
+| [3940-limit-occurrences-in-sorted-array](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3940-limit-occurrences-in-sorted-array) |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3942-minimum-operations-to-sort-a-permutation) |
 | [3943-number-of-pairs-after-increment](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3943-number-of-pairs-after-increment) |
 | [4040-minimum-operations-to-form-subset-sum-i](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/4040-minimum-operations-to-form-subset-sum-i) |
@@ -1226,6 +1227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3936-minimum-swaps-to-move-zeros-to-end](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3936-minimum-swaps-to-move-zeros-to-end) |
+| [3940-limit-occurrences-in-sorted-array](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3940-limit-occurrences-in-sorted-array) |
 ## Bit Manipulation
 |  |
 | ------- |
