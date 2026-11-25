@@ -375,6 +375,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3934-smallest-unique-subarray](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3934-smallest-unique-subarray) |
 | [3936-minimum-swaps-to-move-zeros-to-end](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3936-minimum-swaps-to-move-zeros-to-end) |
 | [3937-minimum-operations-to-make-array-modulo-alternating-i](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3937-minimum-operations-to-make-array-modulo-alternating-i) |
+| [3938-maximum-path-intersection-sum-in-a-grid](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3938-maximum-path-intersection-sum-in-a-grid) |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3942-minimum-operations-to-sort-a-permutation) |
 | [3943-number-of-pairs-after-increment](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3943-number-of-pairs-after-increment) |
 | [4040-minimum-operations-to-form-subset-sum-i](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/4040-minimum-operations-to-form-subset-sum-i) |
@@ -1067,6 +1068,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3864-minimum-cost-to-partition-a-binary-string](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3864-minimum-cost-to-partition-a-binary-string) |
 | [3903-smallest-stable-index-i](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3904-smallest-stable-index-ii) |
+| [3938-maximum-path-intersection-sum-in-a-grid](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3938-maximum-path-intersection-sum-in-a-grid) |
 ## Sliding Window
 |  |
 | ------- |
@@ -1428,6 +1430,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3753-total-waviness-of-numbers-in-range-ii](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3753-total-waviness-of-numbers-in-range-ii) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3882-minimum-xor-path-in-a-grid) |
+| [3938-maximum-path-intersection-sum-in-a-grid](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3938-maximum-path-intersection-sum-in-a-grid) |
 | [4040-minimum-operations-to-form-subset-sum-i](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/4040-minimum-operations-to-form-subset-sum-i) |
 | [4041-minimum-operations-to-form-subset-sum-ii](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/4041-minimum-operations-to-form-subset-sum-ii) |
 ## Greedy
@@ -1656,6 +1659,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3725-count-ways-to-choose-coprime-integers-from-rows](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3725-count-ways-to-choose-coprime-integers-from-rows) |
 | [3742-maximum-path-score-in-a-grid](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3742-maximum-path-score-in-a-grid) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3882-minimum-xor-path-in-a-grid) |
+| [3938-maximum-path-intersection-sum-in-a-grid](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3938-maximum-path-intersection-sum-in-a-grid) |
 ## Shortest Path
 |  |
 | ------- |
