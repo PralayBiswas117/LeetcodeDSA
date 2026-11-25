@@ -376,6 +376,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3936-minimum-swaps-to-move-zeros-to-end](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3936-minimum-swaps-to-move-zeros-to-end) |
 | [3937-minimum-operations-to-make-array-modulo-alternating-i](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3937-minimum-operations-to-make-array-modulo-alternating-i) |
 | [3938-maximum-path-intersection-sum-in-a-grid](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3938-maximum-path-intersection-sum-in-a-grid) |
+| [3939-count-non-adjacent-subsets-in-a-rooted-tree](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3939-count-non-adjacent-subsets-in-a-rooted-tree) |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3942-minimum-operations-to-sort-a-permutation) |
 | [3943-number-of-pairs-after-increment](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3943-number-of-pairs-after-increment) |
 | [4040-minimum-operations-to-form-subset-sum-i](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/4040-minimum-operations-to-form-subset-sum-i) |
@@ -1431,6 +1432,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3753-total-waviness-of-numbers-in-range-ii](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3753-total-waviness-of-numbers-in-range-ii) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3882-minimum-xor-path-in-a-grid) |
 | [3938-maximum-path-intersection-sum-in-a-grid](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3938-maximum-path-intersection-sum-in-a-grid) |
+| [3939-count-non-adjacent-subsets-in-a-rooted-tree](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3939-count-non-adjacent-subsets-in-a-rooted-tree) |
 | [4040-minimum-operations-to-form-subset-sum-i](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/4040-minimum-operations-to-form-subset-sum-i) |
 | [4041-minimum-operations-to-form-subset-sum-ii](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/4041-minimum-operations-to-form-subset-sum-ii) |
 ## Greedy
@@ -1976,6 +1978,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3841-palindromic-path-queries-in-a-tree) |
+| [3939-count-non-adjacent-subsets-in-a-rooted-tree](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3939-count-non-adjacent-subsets-in-a-rooted-tree) |
 ## Trie
 |  |
 | ------- |
@@ -2236,6 +2239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3841-palindromic-path-queries-in-a-tree) |
+| [3939-count-non-adjacent-subsets-in-a-rooted-tree](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3939-count-non-adjacent-subsets-in-a-rooted-tree) |
 ## Binary Tree
 |  |
 | ------- |
