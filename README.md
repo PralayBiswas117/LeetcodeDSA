@@ -305,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3312-sorted-gcd-pair-queries](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3361-shift-distance-between-two-strings](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3361-shift-distance-between-two-strings) |
+| [3362-zero-array-transformation-iii](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3362-zero-array-transformation-iii) |
 | [3364-minimum-positive-sum-subarray](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3364-minimum-positive-sum-subarray) |
 | [3409-longest-subsequence-with-decreasing-adjacent-difference](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3409-longest-subsequence-with-decreasing-adjacent-difference) |
 | [3410-maximize-subarray-sum-after-removing-all-occurrences-of-one-element](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3410-maximize-subarray-sum-after-removing-all-occurrences-of-one-element) |
@@ -780,6 +781,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3039-apply-operations-to-make-string-empty](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3039-apply-operations-to-make-string-empty) |
 | [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
 | [3111-minimum-rectangles-to-cover-points](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3111-minimum-rectangles-to-cover-points) |
+| [3362-zero-array-transformation-iii](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3362-zero-array-transformation-iii) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -1059,6 +1061,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3225-maximum-score-from-grid-operations](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3225-maximum-score-from-grid-operations) |
 | [3312-sorted-gcd-pair-queries](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3312-sorted-gcd-pair-queries) |
 | [3361-shift-distance-between-two-strings](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3361-shift-distance-between-two-strings) |
+| [3362-zero-array-transformation-iii](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3362-zero-array-transformation-iii) |
 | [3364-minimum-positive-sum-subarray](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3364-minimum-positive-sum-subarray) |
 | [3410-maximize-subarray-sum-after-removing-all-occurrences-of-one-element](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3410-maximize-subarray-sum-after-removing-all-occurrences-of-one-element) |
 | [3546-equal-sum-grid-partition-i](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3546-equal-sum-grid-partition-i) |
@@ -1156,6 +1159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2812-find-the-safest-path-in-a-grid](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3112-minimum-time-to-visit-disappearing-nodes](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3112-minimum-time-to-visit-disappearing-nodes) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3362-zero-array-transformation-iii](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3362-zero-array-transformation-iii) |
 | [3408-design-task-manager](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3408-design-task-manager) |
 | [3620-network-recovery-pathways](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3620-network-recovery-pathways) |
 | [3645-maximum-total-from-optimal-activation-order](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3645-maximum-total-from-optimal-activation-order) |
@@ -1226,6 +1230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2903-find-indices-with-index-and-value-difference-i](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/2903-find-indices-with-index-and-value-difference-i) |
 | [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
+| [3362-zero-array-transformation-iii](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3362-zero-array-transformation-iii) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
@@ -1504,6 +1509,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3111-minimum-rectangles-to-cover-points](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3111-minimum-rectangles-to-cover-points) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3348-smallest-divisible-digit-product-ii) |
+| [3362-zero-array-transformation-iii](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3362-zero-array-transformation-iii) |
 | [3474-lexicographically-smallest-generated-string](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3474-lexicographically-smallest-generated-string) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3557-find-maximum-number-of-non-intersecting-substrings](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3557-find-maximum-number-of-non-intersecting-substrings) |
