@@ -304,6 +304,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3312-sorted-gcd-pair-queries](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
+| [3361-shift-distance-between-two-strings](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3361-shift-distance-between-two-strings) |
 | [3364-minimum-positive-sum-subarray](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3364-minimum-positive-sum-subarray) |
 | [3409-longest-subsequence-with-decreasing-adjacent-difference](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3409-longest-subsequence-with-decreasing-adjacent-difference) |
 | [3410-maximize-subarray-sum-after-removing-all-occurrences-of-one-element](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3410-maximize-subarray-sum-after-removing-all-occurrences-of-one-element) |
@@ -663,6 +664,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3121-count-the-number-of-special-characters-ii](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3348-smallest-divisible-digit-product-ii) |
+| [3361-shift-distance-between-two-strings](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3361-shift-distance-between-two-strings) |
 | [3407-substring-matching-pattern](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3407-substring-matching-pattern) |
 | [3412-find-mirror-score-of-a-string](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3412-find-mirror-score-of-a-string) |
 | [3474-lexicographically-smallest-generated-string](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3474-lexicographically-smallest-generated-string) |
@@ -1056,6 +1058,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2574-left-and-right-sum-differences](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/2574-left-and-right-sum-differences) |
 | [3225-maximum-score-from-grid-operations](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3225-maximum-score-from-grid-operations) |
 | [3312-sorted-gcd-pair-queries](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3312-sorted-gcd-pair-queries) |
+| [3361-shift-distance-between-two-strings](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3361-shift-distance-between-two-strings) |
 | [3364-minimum-positive-sum-subarray](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3364-minimum-positive-sum-subarray) |
 | [3410-maximize-subarray-sum-after-removing-all-occurrences-of-one-element](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3410-maximize-subarray-sum-after-removing-all-occurrences-of-one-element) |
 | [3546-equal-sum-grid-partition-i](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3546-equal-sum-grid-partition-i) |
