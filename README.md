@@ -787,6 +787,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3111-minimum-rectangles-to-cover-points](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3111-minimum-rectangles-to-cover-points) |
 | [3362-zero-array-transformation-iii](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3362-zero-array-transformation-iii) |
 | [3365-rearrange-k-substrings-to-form-target-string](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3365-rearrange-k-substrings-to-form-target-string) |
+| [3367-maximize-sum-of-weights-after-edge-removals](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3367-maximize-sum-of-weights-after-edge-removals) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -1433,6 +1434,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3363-find-the-maximum-number-of-fruits-collected](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3363-find-the-maximum-number-of-fruits-collected) |
 | [3366-minimum-array-sum](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3366-minimum-array-sum) |
+| [3367-maximize-sum-of-weights-after-edge-removals](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3367-maximize-sum-of-weights-after-edge-removals) |
 | [3409-longest-subsequence-with-decreasing-adjacent-difference](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3409-longest-subsequence-with-decreasing-adjacent-difference) |
 | [3410-maximize-subarray-sum-after-removing-all-occurrences-of-one-element](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3410-maximize-subarray-sum-after-removing-all-occurrences-of-one-element) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
@@ -1996,6 +1998,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2685-count-the-number-of-complete-components](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/2685-count-the-number-of-complete-components) |
 | [2791-count-paths-that-can-form-a-palindrome-in-a-tree](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/2791-count-paths-that-can-form-a-palindrome-in-a-tree) |
 | [2920-maximum-points-after-collecting-coins-from-all-nodes](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/2920-maximum-points-after-collecting-coins-from-all-nodes) |
+| [3367-maximize-sum-of-weights-after-edge-removals](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3367-maximize-sum-of-weights-after-edge-removals) |
 | [3553-minimum-weighted-subgraph-with-the-required-paths-ii](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3553-minimum-weighted-subgraph-with-the-required-paths-ii) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
@@ -2258,6 +2261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2791-count-paths-that-can-form-a-palindrome-in-a-tree](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/2791-count-paths-that-can-form-a-palindrome-in-a-tree) |
 | [2920-maximum-points-after-collecting-coins-from-all-nodes](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/2920-maximum-points-after-collecting-coins-from-all-nodes) |
+| [3367-maximize-sum-of-weights-after-edge-removals](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3367-maximize-sum-of-weights-after-edge-removals) |
 | [3553-minimum-weighted-subgraph-with-the-required-paths-ii](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3553-minimum-weighted-subgraph-with-the-required-paths-ii) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
