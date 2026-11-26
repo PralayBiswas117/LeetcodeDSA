@@ -306,6 +306,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3361-shift-distance-between-two-strings](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3361-shift-distance-between-two-strings) |
 | [3362-zero-array-transformation-iii](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3362-zero-array-transformation-iii) |
+| [3363-find-the-maximum-number-of-fruits-collected](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3363-find-the-maximum-number-of-fruits-collected) |
 | [3364-minimum-positive-sum-subarray](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3364-minimum-positive-sum-subarray) |
 | [3409-longest-subsequence-with-decreasing-adjacent-difference](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3409-longest-subsequence-with-decreasing-adjacent-difference) |
 | [3410-maximize-subarray-sum-after-removing-all-occurrences-of-one-element](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3410-maximize-subarray-sum-after-removing-all-occurrences-of-one-element) |
@@ -1426,6 +1427,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3225-maximum-score-from-grid-operations](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3225-maximum-score-from-grid-operations) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
+| [3363-find-the-maximum-number-of-fruits-collected](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3363-find-the-maximum-number-of-fruits-collected) |
 | [3409-longest-subsequence-with-decreasing-adjacent-difference](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3409-longest-subsequence-with-decreasing-adjacent-difference) |
 | [3410-maximize-subarray-sum-after-removing-all-occurrences-of-one-element](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3410-maximize-subarray-sum-after-removing-all-occurrences-of-one-element) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
@@ -1666,6 +1668,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2965-find-missing-and-repeated-values](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/2965-find-missing-and-repeated-values) |
 | [3225-maximum-score-from-grid-operations](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3225-maximum-score-from-grid-operations) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3363-find-the-maximum-number-of-fruits-collected](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3363-find-the-maximum-number-of-fruits-collected) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [3546-equal-sum-grid-partition-i](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3546-equal-sum-grid-partition-i) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3548-equal-sum-grid-partition-ii) |
