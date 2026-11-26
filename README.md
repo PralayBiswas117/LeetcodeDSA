@@ -308,6 +308,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3362-zero-array-transformation-iii](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3362-zero-array-transformation-iii) |
 | [3363-find-the-maximum-number-of-fruits-collected](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3363-find-the-maximum-number-of-fruits-collected) |
 | [3364-minimum-positive-sum-subarray](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3364-minimum-positive-sum-subarray) |
+| [3366-minimum-array-sum](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3366-minimum-array-sum) |
 | [3409-longest-subsequence-with-decreasing-adjacent-difference](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3409-longest-subsequence-with-decreasing-adjacent-difference) |
 | [3410-maximize-subarray-sum-after-removing-all-occurrences-of-one-element](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3410-maximize-subarray-sum-after-removing-all-occurrences-of-one-element) |
 | [3411-maximum-subarray-with-equal-products](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3411-maximum-subarray-with-equal-products) |
@@ -1431,6 +1432,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3363-find-the-maximum-number-of-fruits-collected](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3363-find-the-maximum-number-of-fruits-collected) |
+| [3366-minimum-array-sum](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3366-minimum-array-sum) |
 | [3409-longest-subsequence-with-decreasing-adjacent-difference](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3409-longest-subsequence-with-decreasing-adjacent-difference) |
 | [3410-maximize-subarray-sum-after-removing-all-occurrences-of-one-element](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3410-maximize-subarray-sum-after-removing-all-occurrences-of-one-element) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
