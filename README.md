@@ -647,6 +647,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2124-check-if-all-as-appears-before-all-bs](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/2213-longest-substring-of-one-repeating-character) |
+| [2224-minimum-number-of-operations-to-convert-time](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/2224-minimum-number-of-operations-to-convert-time) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2246-longest-path-with-different-adjacent-characters](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/2246-longest-path-with-different-adjacent-characters) |
 | [2409-count-days-spent-together](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/2409-count-days-spent-together) |
@@ -1510,6 +1511,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2132-stamping-the-grid](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/2132-stamping-the-grid) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
+| [2224-minimum-number-of-operations-to-convert-time](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/2224-minimum-number-of-operations-to-convert-time) |
 | [2244-minimum-rounds-to-complete-all-tasks](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/2244-minimum-rounds-to-complete-all-tasks) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/2567-minimum-score-by-changing-two-elements) |
