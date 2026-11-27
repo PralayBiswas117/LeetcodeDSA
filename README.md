@@ -384,6 +384,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3940-limit-occurrences-in-sorted-array](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3940-limit-occurrences-in-sorted-array) |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3942-minimum-operations-to-sort-a-permutation) |
 | [3943-number-of-pairs-after-increment](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3943-number-of-pairs-after-increment) |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3946-maximum-number-of-items-from-sale-i) |
 | [4040-minimum-operations-to-form-subset-sum-i](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/4040-minimum-operations-to-form-subset-sum-i) |
 | [4041-minimum-operations-to-form-subset-sum-ii](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/4041-minimum-operations-to-form-subset-sum-ii) |
 ## Hash Table
@@ -1456,6 +1457,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3882-minimum-xor-path-in-a-grid](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3882-minimum-xor-path-in-a-grid) |
 | [3938-maximum-path-intersection-sum-in-a-grid](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3938-maximum-path-intersection-sum-in-a-grid) |
 | [3939-count-non-adjacent-subsets-in-a-rooted-tree](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3939-count-non-adjacent-subsets-in-a-rooted-tree) |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3946-maximum-number-of-items-from-sale-i) |
 | [4040-minimum-operations-to-form-subset-sum-i](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/4040-minimum-operations-to-form-subset-sum-i) |
 | [4041-minimum-operations-to-form-subset-sum-ii](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/4041-minimum-operations-to-form-subset-sum-ii) |
 ## Greedy
@@ -1532,6 +1534,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3727-maximum-alternating-sum-of-squares](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3781-maximum-score-after-binary-swaps](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3781-maximum-score-after-binary-swaps) |
 | [3789-minimum-cost-to-acquire-required-items](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3789-minimum-cost-to-acquire-required-items) |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3946-maximum-number-of-items-from-sale-i) |
 ## Graph Theory
 |  |
 | ------- |
