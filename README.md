@@ -647,6 +647,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2124-check-if-all-as-appears-before-all-bs](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/2213-longest-substring-of-one-repeating-character) |
+| [2223-sum-of-scores-of-built-strings](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/2223-sum-of-scores-of-built-strings) |
 | [2224-minimum-number-of-operations-to-convert-time](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/2224-minimum-number-of-operations-to-convert-time) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2246-longest-path-with-different-adjacent-characters](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/2246-longest-path-with-different-adjacent-characters) |
@@ -996,6 +997,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2223-sum-of-scores-of-built-strings](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/2223-sum-of-scores-of-built-strings) |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/2226-maximum-candies-allocated-to-k-children) |
 | [2251-number-of-flowers-in-full-bloom](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/2251-number-of-flowers-in-full-bloom) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/2333-minimum-sum-of-squared-difference) |
@@ -1712,6 +1714,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0214-shortest-palindrome](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0214-shortest-palindrome) |
 | [0459-repeated-substring-pattern](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0459-repeated-substring-pattern) |
+| [2223-sum-of-scores-of-built-strings](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/2223-sum-of-scores-of-built-strings) |
 | [3034-number-of-subarrays-that-match-a-pattern-i](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3034-number-of-subarrays-that-match-a-pattern-i) |
 | [3407-substring-matching-pattern](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3407-substring-matching-pattern) |
 | [3474-lexicographically-smallest-generated-string](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3474-lexicographically-smallest-generated-string) |
@@ -1918,6 +1921,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0187-repeated-dna-sequences) |
 | [0214-shortest-palindrome](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0214-shortest-palindrome) |
+| [2223-sum-of-scores-of-built-strings](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/2223-sum-of-scores-of-built-strings) |
 | [3034-number-of-subarrays-that-match-a-pattern-i](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3034-number-of-subarrays-that-match-a-pattern-i) |
 | [3934-smallest-unique-subarray](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3934-smallest-unique-subarray) |
 ## Hash Function
@@ -1926,6 +1930,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0187-repeated-dna-sequences](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0187-repeated-dna-sequences) |
 | [0214-shortest-palindrome](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0214-shortest-palindrome) |
 | [0336-palindrome-pairs](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0336-palindrome-pairs) |
+| [2223-sum-of-scores-of-built-strings](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/2223-sum-of-scores-of-built-strings) |
 | [3034-number-of-subarrays-that-match-a-pattern-i](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3034-number-of-subarrays-that-match-a-pattern-i) |
 | [3934-smallest-unique-subarray](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3934-smallest-unique-subarray) |
 ## Topological Sort
@@ -2341,6 +2346,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0187-repeated-dna-sequences) |
 | [0459-repeated-substring-pattern](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0459-repeated-substring-pattern) |
+| [2223-sum-of-scores-of-built-strings](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/2223-sum-of-scores-of-built-strings) |
 ## Boyer–Moore String-Search Algorithm
 |  |
 | ------- |
@@ -2496,6 +2502,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0459-repeated-substring-pattern](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0459-repeated-substring-pattern) |
+| [2223-sum-of-scores-of-built-strings](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/2223-sum-of-scores-of-built-strings) |
 ## Euler's Totient Function
 |  |
 | ------- |
@@ -2540,5 +2547,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Suffix Array
 |  |
 | ------- |
+| [2223-sum-of-scores-of-built-strings](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/2223-sum-of-scores-of-built-strings) |
 | [3934-smallest-unique-subarray](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3934-smallest-unique-subarray) |
 <!---LeetCode Topics End-->
