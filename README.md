@@ -240,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/2226-maximum-candies-allocated-to-k-children) |
 | [2227-encrypt-and-decrypt-strings](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/2227-encrypt-and-decrypt-strings) |
 | [2233-maximum-product-after-k-increments](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/2233-maximum-product-after-k-increments) |
+| [2234-maximum-total-beauty-of-the-gardens](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/2234-maximum-total-beauty-of-the-gardens) |
 | [2244-minimum-rounds-to-complete-all-tasks](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/2244-minimum-rounds-to-complete-all-tasks) |
 | [2245-maximum-trailing-zeros-in-a-cornered-path](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/2245-maximum-trailing-zeros-in-a-cornered-path) |
 | [2246-longest-path-with-different-adjacent-characters](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/2246-longest-path-with-different-adjacent-characters) |
@@ -781,6 +782,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2164-sort-even-and-odd-indices-independently](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/2164-sort-even-and-odd-indices-independently) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/2225-find-players-with-zero-or-one-losses) |
+| [2234-maximum-total-beauty-of-the-gardens](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/2234-maximum-total-beauty-of-the-gardens) |
 | [2251-number-of-flowers-in-full-bloom](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/2251-number-of-flowers-in-full-bloom) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2463-minimum-total-distance-traveled](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/2463-minimum-total-distance-traveled) |
@@ -1005,6 +1007,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2089-find-target-indices-after-sorting-array](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2223-sum-of-scores-of-built-strings](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/2223-sum-of-scores-of-built-strings) |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/2226-maximum-candies-allocated-to-k-children) |
+| [2234-maximum-total-beauty-of-the-gardens](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/2234-maximum-total-beauty-of-the-gardens) |
 | [2251-number-of-flowers-in-full-bloom](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/2251-number-of-flowers-in-full-bloom) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2540-minimum-common-value](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/2540-minimum-common-value) |
@@ -1077,6 +1080,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1872-stone-game-viii](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/1872-stone-game-viii) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [2132-stamping-the-grid](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/2132-stamping-the-grid) |
+| [2234-maximum-total-beauty-of-the-gardens](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/2234-maximum-total-beauty-of-the-gardens) |
 | [2245-maximum-trailing-zeros-in-a-cornered-path](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/2245-maximum-trailing-zeros-in-a-cornered-path) |
 | [2251-number-of-flowers-in-full-bloom](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/2251-number-of-flowers-in-full-bloom) |
 | [2574-left-and-right-sum-differences](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/2574-left-and-right-sum-differences) |
@@ -1248,6 +1252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/2161-partition-array-according-to-given-pivot) |
+| [2234-maximum-total-beauty-of-the-gardens](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/2234-maximum-total-beauty-of-the-gardens) |
 | [2396-strictly-palindromic-number](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/2396-strictly-palindromic-number) |
 | [2540-minimum-common-value](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/2540-minimum-common-value) |
 | [2570-merge-two-2d-arrays-by-summing-values](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
@@ -1523,6 +1528,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2224-minimum-number-of-operations-to-convert-time](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/2224-minimum-number-of-operations-to-convert-time) |
 | [2233-maximum-product-after-k-increments](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/2233-maximum-product-after-k-increments) |
+| [2234-maximum-total-beauty-of-the-gardens](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/2234-maximum-total-beauty-of-the-gardens) |
 | [2244-minimum-rounds-to-complete-all-tasks](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/2244-minimum-rounds-to-complete-all-tasks) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/2567-minimum-score-by-changing-two-elements) |
@@ -1957,6 +1963,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0204-count-primes) |
 | [1291-sequential-digits](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/1291-sequential-digits) |
 | [2094-finding-3-digit-even-numbers](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/2094-finding-3-digit-even-numbers) |
+| [2234-maximum-total-beauty-of-the-gardens](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/2234-maximum-total-beauty-of-the-gardens) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3001-minimum-moves-to-capture-the-queen](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3001-minimum-moves-to-capture-the-queen) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
