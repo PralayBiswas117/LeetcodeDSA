@@ -238,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2213-longest-substring-of-one-repeating-character](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/2225-find-players-with-zero-or-one-losses) |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/2226-maximum-candies-allocated-to-k-children) |
+| [2227-encrypt-and-decrypt-strings](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/2227-encrypt-and-decrypt-strings) |
 | [2244-minimum-rounds-to-complete-all-tasks](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/2244-minimum-rounds-to-complete-all-tasks) |
 | [2245-maximum-trailing-zeros-in-a-cornered-path](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/2245-maximum-trailing-zeros-in-a-cornered-path) |
 | [2246-longest-path-with-different-adjacent-characters](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/2246-longest-path-with-different-adjacent-characters) |
@@ -483,6 +484,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2154-keep-multiplying-found-values-by-two](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/2225-find-players-with-zero-or-one-losses) |
+| [2227-encrypt-and-decrypt-strings](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/2227-encrypt-and-decrypt-strings) |
 | [2244-minimum-rounds-to-complete-all-tasks](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/2244-minimum-rounds-to-complete-all-tasks) |
 | [2251-number-of-flowers-in-full-bloom](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/2251-number-of-flowers-in-full-bloom) |
 | [2540-minimum-common-value](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/2540-minimum-common-value) |
@@ -650,6 +652,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2213-longest-substring-of-one-repeating-character](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2223-sum-of-scores-of-built-strings](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/2223-sum-of-scores-of-built-strings) |
 | [2224-minimum-number-of-operations-to-convert-time](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/2224-minimum-number-of-operations-to-convert-time) |
+| [2227-encrypt-and-decrypt-strings](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/2227-encrypt-and-decrypt-strings) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2246-longest-path-with-different-adjacent-characters](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/2246-longest-path-with-different-adjacent-characters) |
 | [2409-count-days-spent-together](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/2409-count-days-spent-together) |
@@ -2036,6 +2039,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0212-word-search-ii](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0212-word-search-ii) |
 | [0336-palindrome-pairs](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0336-palindrome-pairs) |
 | [0472-concatenated-words](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/0472-concatenated-words) |
+| [2227-encrypt-and-decrypt-strings](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/2227-encrypt-and-decrypt-strings) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3093-longest-common-suffix-queries](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3093-longest-common-suffix-queries) |
 ## Game Theory
@@ -2167,6 +2171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1357-apply-discount-every-n-orders](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/1357-apply-discount-every-n-orders) |
 | [1603-design-parking-system](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/1603-design-parking-system) |
 | [2069-walking-robot-simulation-ii](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/2069-walking-robot-simulation-ii) |
+| [2227-encrypt-and-decrypt-strings](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/2227-encrypt-and-decrypt-strings) |
 | [3408-design-task-manager](https://github.com/PralayBiswas117/LeetcodeDSA/tree/master/3408-design-task-manager) |
 ## Randomized
 |  |
